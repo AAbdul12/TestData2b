@@ -1,0 +1,6 @@
+ListingId	DateTime	URL
+169283470	2014-10-12 13:00:00	35-28-mort-street-braddon-canberra-169283470
+169369944	2014-11-05 22:02:08	185-41-chandler-street-belconnen-canberra-169369944
+169088935	2014-06-13 05:15:48	no-street-name-provided-wright-canberra-169088935
+169072096	2014-06-02 07:13:00	no-street-name-provided-coombs-canberra-169072096
+173977774	2014-02-17 00:48:00	no-street-name-provided-wright-canberra-173977774
