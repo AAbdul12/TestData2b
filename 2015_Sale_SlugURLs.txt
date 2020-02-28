@@ -1,0 +1,15 @@
+ListingId	DateTime	URL
+171236628	2015-10-28 00:24:13	iskia-3-bedroom-apartment-campbell-canberra-171236628
+171114814	2015-10-02 02:40:17	305-4-masson-street-turner-canberra-171114814
+169976499	2015-05-07 03:18:00	32-yamaroshi-mort-street-braddon-canberra-169976499
+169679340	2015-04-22 14:00:00	98-72-college-street-belconnen-canberra-169679340
+171396401	2015-11-25 13:00:00	28-11-kerridge-street-kingston-canberra-171396401
+171434930	2015-12-03 13:00:00	no-street-name-provided-denman-prospect-canberra-171434930
+171359274	2015-11-18 05:37:14	1-108-davenport-street-dickson-canberra-171359274
+171326206	2015-11-12 02:02:30	no-street-name-provided-denman-prospect-canberra-171326206
+171218608	2015-10-23 13:00:00	no-street-name-provided-denman-prospect-canberra-171218608
+171205722	2015-10-21 13:00:00	no-street-name-provided-denman-prospect-canberra-171205722
+169608784	2015-10-01 05:55:09	bronhill-street-moncrieff-canberra-169608784
+170514217	2015-09-21 05:57:00	52-macleay-street-turner-canberra-170514217
+171028514	2015-09-15 14:00:00	8-bliss-terrace-moncrieff-canberra-171028514
+169708486	2015-04-14 03:03:11	25-edinburgh-avenue-acton-canberra-169708486
