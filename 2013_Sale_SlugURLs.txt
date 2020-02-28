@@ -1,0 +1,4 @@
+ListingId	DateTime	URL
+168770270	2013-10-21 05:43:15	5-26-springvale-drive-hawker-canberra-168770270
+168654980	2013-07-17 12:32:47	10-ipima-street-braddon-canberra-168654980
+168636240	2013-07-06 19:43:27	no-street-name-provided-harrison-canberra-168636240
