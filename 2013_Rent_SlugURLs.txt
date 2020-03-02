@@ -1,0 +1,16 @@
+ListingId	DateTime	URL
+168645210	2013-07-09 04:00:11	20-railway-street-oaks-estate-canberra-168645210
+168665660	2013-07-26 01:32:42	no-street-name-provided-harrison-canberra-168665660
+168668690	2013-07-29 10:42:26	2-akuna-street-city-canberra-168668690
+168674740	2013-08-04 08:43:49	buzacott-place-mckellar-canberra-168674740
+168677590	2013-08-06 22:51:00	35-21-braybrooke-street-bruce-canberra-168677590
+168700430	2013-08-24 11:00:00	no-street-name-provided-lyneham-canberra-168700430
+168710170	2013-09-02 00:05:26	no-street-name-provided-bruce-canberra-168710170
+168714690	2013-09-05 03:21:16	no-street-name-provided-chifley-canberra-168714690
+168722180	2013-09-10 11:02:09	13-flagstone-street-harrison-canberra-168722180
+168757250	2013-10-09 20:50:35	no-street-name-provided-watson-canberra-168757250
+168784292	2013-10-31 05:52:00	2-masson-street-turner-canberra-168784292
+168805143	2013-11-17 08:00:59	13-18-moore-street-turner-canberra-168805143
+168805273	2013-11-17 22:45:34	no-street-name-provided-lyneham-canberra-168805273
+168847773	2013-12-23 07:19:00	211-82-thynne-street-bruce-canberra-168847773
+168848443	2013-12-24 01:14:30	no-street-name-provided-dunlop-canberra-168848443
