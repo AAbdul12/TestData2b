@@ -1,0 +1,4 @@
+ListingId	DateTime	URL
+168253894	2012-06-26 03:57:55	116-easty-street-phillip-canberra-168253894
+168262780	2012-07-05 05:21:00	46-banks-street-yarralumla-canberra-168262780
+168313512	2012-09-05 02:00:22	16-135-blamey-crescent-campbell-canberra-168313512
