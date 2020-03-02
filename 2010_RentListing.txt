@@ -1,0 +1,2 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+167476940	RENTAL_RESIDENTIAL	Range of fully furnished Accomodation	By Negotiation	2010-02-10 01:50:00		Faunce Crescent	O'Connor	ACT	2602	-35.25659927	149.11559496	APARTMENT	2001	PrivateLister	Private Lister			0	0			['Fully Furnished', 'Off-street Parking', 'Short Term', 'Short Term Lease']
