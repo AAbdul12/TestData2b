@@ -71,3 +71,21 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 614993	177983035	2020-03-07	10-clarkson-street-pearce-canberra-177983035	$955k	
 614995	177945429	2020-03-07	1-surveyor-street-queanbeyan-queanbeyan-region-177945429	Passed in	
 614996	177951370	2020-03-07	34-serventy-street-wright-canberra-177951370	$990k	
+614978	177951154	2020-03-07	3-newstead-street-amaroo-canberra-177951154	$687k	
+614979	177951576	2020-03-07	13-muskett-place-conder-canberra-177951576	$880k	
+614980	177957405	2020-03-07	106-hugh-mckay-crescent-dunlop-canberra-177957405	$515k	Prior to auction
+614981	177941736	2020-03-07	13-buscombe-street-forde-canberra-177941736	$912k	
+614982	177947653	2020-03-07	19-statton-street-gowrie-canberra-177947653	Passed in	
+614983	177945646	2020-03-07	4-howmans-street-harrison-canberra-177945646	$780k	
+614984	177457129	2020-03-07	11-staaten-crescent-kaleen-canberra-177457129	$785k	
+614985	None	2020-03-07	None	Withdrawn	
+614986	None	2020-03-07	None	$775k	Prior to auction
+614987	177957984	2020-03-07	17-von-guerard-crescent-lyneham-canberra-177957984	Price withheld	
+614988	177948702	2020-03-07	91-hurley-street-mawson-canberra-177948702	$805k	
+614989	177947788	2020-03-07	66-bronhill-street-moncrieff-canberra-177947788	$593k	Prior to auction
+614990	177889619	2020-03-07	27-warrumbul-street-ngunnawal-canberra-177889619	Passed in	
+614991	177983588	2020-03-07	6-neumayer-street-page-canberra-177983588	$595k	
+614992	177951259	2020-03-07	27-tiptree-crescent-palmerston-canberra-177951259	$760k	
+614993	177983035	2020-03-07	10-clarkson-street-pearce-canberra-177983035	$955k	
+614995	177945429	2020-03-07	1-surveyor-street-queanbeyan-queanbeyan-region-177945429	Passed in	
+614996	177951370	2020-03-07	34-serventy-street-wright-canberra-177951370	$990k	
