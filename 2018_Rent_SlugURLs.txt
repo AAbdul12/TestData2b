@@ -44,5 +44,6 @@ ListingId	DateTime	URL
 176126607	2018-12-03 00:26:36	20-3-london-circuit-city-canberra-176126607
 176136634	2018-12-09 13:00:00	69-116-easty-street-phillip-canberra-176136634
 176149776	2018-12-07 01:37:22	longford-street-lyons-canberra-176149776
+176161864	2018-12-11 05:52:17	8-mottram-street-taylor-canberra-176161864
 176199256	2018-12-20 22:51:38	no-street-name-provided-city-canberra-176199256
 176205386	2018-12-23 21:12:32	hibiscus-crescent-rivett-canberra-176205386
