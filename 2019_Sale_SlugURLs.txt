@@ -282,6 +282,7 @@ ListingId	DateTime	URL
 176665234	2019-04-25 22:54:45	no-street-name-provided-scullin-canberra-176665234
 176665279	2019-05-29 06:42:06	16-heseltine-street-denman-prospect-canberra-176665279
 176669612	2019-04-23 23:12:18	81-177-badimara-street-fisher-canberra-176669612
+176675868	2019-04-25 14:00:00	no-street-name-provided-watson-canberra-176675868
 176687019	2019-04-29 23:21:29	622-240-bunda-street-city-canberra-176687019
 176687351	2019-04-30 15:51:53	6-grace-perry-street-wright-canberra-176687351
 176687586	2019-04-30 01:22:04	jade-gungahlin-view-display-apartments-gribble-street-gungahlin-canberra-176687586
@@ -758,6 +759,7 @@ ListingId	DateTime	URL
 177386737	2019-10-08 05:12:36	embark-1-bedroom-1-bathroom-lyneham-canberra-177386737
 177387363	2019-10-08 06:21:11	1-mckivat-close-gordon-canberra-177387363
 177387488	2019-10-08 06:01:41	1-40-smeaton-circuit-banks-canberra-177387488
+177390399	2019-10-08 22:34:12	96-davidson-street-higgins-canberra-177390399
 177390627	2019-10-16 22:47:17	33-allchin-circuit-kambah-canberra-177390627
 177390895	2019-10-10 23:49:17	62-franklin-street-forrest-canberra-177390895
 177391636	2019-10-10 01:24:34	15-meredith-circuit-kambah-canberra-177391636
