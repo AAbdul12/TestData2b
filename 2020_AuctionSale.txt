@@ -21,7 +21,6 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 616536	177978283	2020-03-14	6-renwick-street-chifley-canberra-177978283	$691k	
 616537	177983107	2020-03-14	1-16-sexton-street-cook-canberra-177983107	$560k	
 616538	177921324	2020-03-14	12-barwell-place-curtin-canberra-177921324	$1.117m	
-616539	None	2020-03-14	None	Passed in	
 616541	177886103	2020-03-14	7-appel-crescent-fadden-canberra-177886103	Passed in	
 616542	177983533	2020-03-14	10-inlander-crescent-flynn-canberra-177983533	$630k	
 616543	177983457	2020-03-14	11-ferber-place-gilmore-canberra-177983457	$575k	Prior to auction
