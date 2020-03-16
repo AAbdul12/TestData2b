@@ -37,3 +37,7 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 616555	177983446	2020-03-14	15-shenton-crescent-stirling-canberra-177983446	Price withheld	
 616557	177983409	2020-03-14	44-waramanga-place-waramanga-canberra-177983409	Price withheld	
 616558	177983538	2020-03-14	14-bailey-place-yarralumla-canberra-177983538	Passed in	
+616540	177983162	2020-03-14	15-macartney-crescent-deakin-canberra-177983162	$905k	
+616547	177951436	2020-03-14	22-mills-street-hackett-canberra-177951436	$995k	
+616551	177983456	2020-03-14	113-livingston-avenue-kambah-canberra-177983456	$650k	
+616556	177978303	2020-03-14	165-streeton-drive-stirling-canberra-177978303	$870k	Prior to auction
