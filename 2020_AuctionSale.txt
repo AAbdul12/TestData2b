@@ -17,3 +17,23 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 614993	177983035	2020-03-07	10-clarkson-street-pearce-canberra-177983035	$955k	
 614995	177945429	2020-03-07	1-surveyor-street-queanbeyan-queanbeyan-region-177945429	Passed in	
 614996	177951370	2020-03-07	34-serventy-street-wright-canberra-177951370	$990k	
+616535	177983583	2020-03-14	52-rosenthal-street-campbell-canberra-177983583	Price withheld	
+616536	177978283	2020-03-14	6-renwick-street-chifley-canberra-177978283	$691k	
+616537	177983107	2020-03-14	1-16-sexton-street-cook-canberra-177983107	$560k	
+616538	177921324	2020-03-14	12-barwell-place-curtin-canberra-177921324	$1.117m	
+616539	None	2020-03-14	None	Passed in	
+616541	177886103	2020-03-14	7-appel-crescent-fadden-canberra-177886103	Passed in	
+616542	177983533	2020-03-14	10-inlander-crescent-flynn-canberra-177983533	$630k	
+616543	177983457	2020-03-14	11-ferber-place-gilmore-canberra-177983457	$575k	Prior to auction
+616544	177967770	2020-03-14	20-coningham-street-gowrie-canberra-177967770	$805k	
+616545	177983542	2020-03-14	2-meehan-gardens-griffith-canberra-177983542	Passed in	
+616546	177951390	2020-03-14	121-madigan-street-hackett-canberra-177951390	$861k	Prior to auction
+616548	177954610	2020-03-14	374-anthony-rolfe-avenue-harrison-canberra-177954610	Passed in	
+616549	177983142	2020-03-14	15-jasper-close-isabella-plains-canberra-177983142	Price withheld	
+616550	177976872	2020-03-14	3-deuchar-close-kambah-canberra-177976872	$825k	
+616552	177983164	2020-03-14	14-shearston-street-moncrieff-canberra-177983164	Passed in	
+616553	177989914	2020-03-14	52-cockle-street-o-connor-canberra-177989914	$1.111m	
+616554	177977434	2020-03-14	21-cumberlege-crescent-pearce-canberra-177977434	$850k	Prior to auction
+616555	177983446	2020-03-14	15-shenton-crescent-stirling-canberra-177983446	Price withheld	
+616557	177983409	2020-03-14	44-waramanga-place-waramanga-canberra-177983409	Price withheld	
+616558	177983538	2020-03-14	14-bailey-place-yarralumla-canberra-177983538	Passed in	
