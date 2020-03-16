@@ -48,7 +48,6 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 616564	177983107	2020-03-14	1-16-sexton-street-cook-canberra-177983107	$560k	
 616565	177983543	2020-03-14	35-zanci-street-crace-canberra-177983543	$900k	
 616566	177921324	2020-03-14	12-barwell-place-curtin-canberra-177921324	$1.117m	
-616567	None	2020-03-14	None	Passed in	
 616568	177983162	2020-03-14	15-macartney-crescent-deakin-canberra-177983162	$905k	
 616569	177957750	2020-03-14	8-mary-hall-circuit-dunlop-canberra-177957750	$605k	
 616570	177886103	2020-03-14	7-appel-crescent-fadden-canberra-177886103	Passed in	
