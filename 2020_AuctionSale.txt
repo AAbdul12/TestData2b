@@ -73,3 +73,4 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 616590	178011040	2020-03-14	5-3-davies-place-torrens-canberra-178011040	Passed in	
 616591	177983409	2020-03-14	44-waramanga-place-waramanga-canberra-177983409	Price withheld	
 616592	177983538	2020-03-14	14-bailey-place-yarralumla-canberra-177983538	Passed in	
+616567	None	2020-03-14	"""1/24 Gawler Cr Deakin Canberra"""	Passed in	
