@@ -74,3 +74,37 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 616591	177983409	2020-03-14	44-waramanga-place-waramanga-canberra-177983409	Price withheld	
 616592	177983538	2020-03-14	14-bailey-place-yarralumla-canberra-177983538	Passed in	
 616567	None	2020-03-14	"""1/24 Gawler Cr Deakin Canberra"""	Passed in	
+616593	178023648	2020-03-14	43-corringle-close-amaroo-canberra-178023648	Passed in	
+616594	177983690	2020-03-14	8-mchenry-street-amaroo-canberra-177983690	$885k	
+616595	177983465	2020-03-14	1-7-lowanna-street-braddon-canberra-177983465	Passed in	
+616596	177983583	2020-03-14	52-rosenthal-street-campbell-canberra-177983583	Price withheld	
+616597	177978283	2020-03-14	6-renwick-street-chifley-canberra-177978283	$691k	
+616598	177983107	2020-03-14	1-16-sexton-street-cook-canberra-177983107	$560k	
+616599	177983543	2020-03-14	35-zanci-street-crace-canberra-177983543	$900k	
+616600	177921324	2020-03-14	12-barwell-place-curtin-canberra-177921324	$1.117m	
+616601	None	2020-03-14	"""1/24 Gawler Cr Deakin Canberra"""	Passed in	
+616602	177983162	2020-03-14	15-macartney-crescent-deakin-canberra-177983162	$905k	
+616603	177957750	2020-03-14	8-mary-hall-circuit-dunlop-canberra-177957750	$605k	
+616604	177886103	2020-03-14	7-appel-crescent-fadden-canberra-177886103	Passed in	
+616605	177983533	2020-03-14	10-inlander-crescent-flynn-canberra-177983533	$630k	
+616606	177983457	2020-03-14	11-ferber-place-gilmore-canberra-177983457	$575k	Prior to auction
+616607	177967770	2020-03-14	20-coningham-street-gowrie-canberra-177967770	$805k	
+616608	177983542	2020-03-14	2-meehan-gardens-griffith-canberra-177983542	Passed in	
+616609	177951390	2020-03-14	121-madigan-street-hackett-canberra-177951390	$861k	Prior to auction
+616610	177951436	2020-03-14	22-mills-street-hackett-canberra-177951436	$995k	
+616611	177954610	2020-03-14	374-anthony-rolfe-avenue-harrison-canberra-177954610	Passed in	
+616612	177983142	2020-03-14	15-jasper-close-isabella-plains-canberra-177983142	Price withheld	
+616613	177976872	2020-03-14	3-deuchar-close-kambah-canberra-177976872	$825k	
+616614	177983456	2020-03-14	113-livingston-avenue-kambah-canberra-177983456	$650k	
+616615	177983815	2020-03-14	17-bennelong-crescent-macquarie-canberra-177983815	$820k	
+616616	177983164	2020-03-14	14-shearston-street-moncrieff-canberra-177983164	Passed in	
+616617	177978630	2020-03-14	44-slim-dusty-circuit-moncrieff-canberra-177978630	$870k	
+616618	177978152	2020-03-14	173-jabanungga-avenue-ngunnawal-canberra-177978152	$727k	
+616619	177989914	2020-03-14	52-cockle-street-o-connor-canberra-177989914	$1.111m	
+616620	177977434	2020-03-14	21-cumberlege-crescent-pearce-canberra-177977434	$850k	Prior to auction
+616621	177983446	2020-03-14	15-shenton-crescent-stirling-canberra-177983446	Price withheld	
+616622	177978303	2020-03-14	165-streeton-drive-stirling-canberra-177978303	$870k	Prior to auction
+616623	177983672	2020-03-14	22-batchelor-street-torrens-canberra-177983672	Passed in	
+616624	178011040	2020-03-14	5-3-davies-place-torrens-canberra-178011040	Passed in	
+616625	177983409	2020-03-14	44-waramanga-place-waramanga-canberra-177983409	Price withheld	
+616626	177983538	2020-03-14	14-bailey-place-yarralumla-canberra-177983538	Passed in	
