@@ -857,6 +857,7 @@ ListingId	DateTime	URL
 178011723	2020-03-09 22:09:53	the-curzon-apartments-unit-110-one-bedroom-study-apartment-wright-canberra-178011723
 178011726	2020-03-12 20:15:57	shoreline-villas-type-e-2-bedroom-townhouse-greenway-canberra-178011726
 178011729	2020-03-12 22:31:28	the-curzon-apartments-unit-303-two-bedroom-apartment-wright-canberra-178011729
+178011733	2020-03-20 22:26:47	norrebro-21-negus-crescent-watson-canberra-178011733
 178011736	2020-03-12 20:15:23	shoreline-villas-type-q-3-bedroom-townhouse-greenway-canberra-178011736
 178011737	2020-03-20 00:51:41	taylor-block-18-section-67-taylor-canberra-178011737
 178011738	2020-03-06 05:40:21	the-curzon-apartments-unit-408-one-bedroom-apartment-wright-canberra-178011738
@@ -1234,6 +1235,7 @@ ListingId	DateTime	URL
 178082750	2020-03-16 02:10:20	6-9-devonport-street-lyons-canberra-178082750
 178082850	2020-03-16 02:11:04	2-forrest-place-kambah-canberra-178082850
 178083555	2020-03-16 03:52:01	13-5-skuta-place-denman-prospect-canberra-178083555
+178084074	2020-03-22 21:22:39	106-kitchener-street-garran-canberra-178084074
 178084845	2020-03-16 05:52:28	10-54-ernest-cavanagh-street-gungahlin-canberra-178084845
 178085040	2020-03-17 23:31:14	15-12-trevillian-quay-kingston-canberra-178085040
 178087013	2020-03-16 22:12:00	11-flegg-crescent-gordon-canberra-178087013
@@ -1262,6 +1264,7 @@ ListingId	DateTime	URL
 178092478	2020-03-17 22:42:02	35-keewong-street-crace-canberra-178092478
 178092496	2020-03-17 19:13:31	35-degraves-crescent-wanniassa-canberra-178092496
 178092536	2020-03-17 21:53:11	70-grainger-circuit-melba-canberra-178092536
+178092539	2020-03-20 03:58:11	norrebro-21-negus-crescent-watson-canberra-178092539
 178092600	2020-03-17 23:12:08	99-311-flemington-road-franklin-canberra-178092600
 178092636	2020-03-17 22:42:36	31-djerrkura-street-bonner-canberra-178092636
 178092646	2020-03-17 23:04:29	5-1-gungahlin-place-gungahlin-canberra-178092646
@@ -1334,10 +1337,21 @@ ListingId	DateTime	URL
 178100990	2020-03-19 05:22:06	3-yamba-place-narrabundah-canberra-178100990
 178101057	2020-03-19 05:12:14	16-downward-place-kambah-canberra-178101057
 178101597	2020-03-19 06:12:05	32-yamaroshi-mort-street-braddon-canberra-178101597
+178101707	2020-03-20 04:04:03	norrebro-21-negus-crescent-watson-canberra-178101707
+178101708	2020-03-20 22:18:45	norrebro-21-negus-crescent-watson-canberra-178101708
+178101717	2020-03-20 04:13:19	norrebro-21-negus-crescent-watson-canberra-178101717
 178103301	2020-03-19 21:52:00	20-clare-dennis-avenue-gordon-canberra-178103301
 178103417	2020-03-19 22:32:01	1-dianella-street-o-connor-canberra-178103417
 178103426	2020-03-19 22:00:27	2-kingham-place-charnwood-canberra-178103426
 178103559	2020-03-19 23:42:13	4-54-macleay-street-turner-canberra-178103559
+178103595	2020-03-20 01:22:04	2-13b-gair-place-wanniassa-canberra-178103595
 178103676	2020-03-19 23:22:13	55-2-peter-cullen-way-wright-canberra-178103676
 178103772	2020-03-20 01:01:21	11-nagara-street-waramanga-canberra-178103772
 178103996	2020-03-20 00:42:22	100-12-david-street-turner-canberra-178103996
+178104319	2020-03-20 01:22:01	69-mockridge-crescent-holt-canberra-178104319
+178104396	2020-03-20 02:01:05	21-25-eastlake-parade-kingston-canberra-178104396
+178104764	2020-03-20 03:42:09	6-54-macleay-street-turner-canberra-178104764
+178106394	2020-03-20 06:12:03	29-abena-avenue-crace-canberra-178106394
+178108101	2020-03-21 00:42:04	129-fullagar-crescent-higgins-canberra-178108101
+178109937	2020-03-22 22:22:06	18-numeralla-street-o-malley-canberra-178109937
+178109996	2020-03-22 22:42:00	36-wyselaskie-circuit-kambah-canberra-178109996
