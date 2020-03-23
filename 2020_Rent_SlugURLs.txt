@@ -1301,5 +1301,8 @@ ListingId	DateTime	URL
 178108806	2020-03-21 01:00:19	115-hawkesbury-crescent-farrer-canberra-178108806
 178109306	2020-03-21 11:38:10	35-jerrabomberra-avenue-narrabundah-canberra-178109306
 178109766	2020-03-22 21:06:45	7-garanya-street-waramanga-canberra-178109766
+178109799	2020-03-22 23:32:17	7-18-glenmaggie-street-duffy-canberra-178109799
+178109862	2020-03-22 23:32:01	5-11-howitt-street-kingston-canberra-178109862
 178109976	2020-03-22 22:32:05	2-28-mcinnes-street-weston-canberra-178109976
 178110056	2020-03-22 23:04:24	hall-best-lane-gungahlin-canberra-178110056
+178110099	2020-03-22 23:32:08	31-gouger-street-torrens-canberra-178110099
