@@ -144,3 +144,40 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 616766	178011040	2020-03-14	5-3-davies-place-torrens-canberra-178011040	Passed in	
 616767	177983409	2020-03-14	44-waramanga-place-waramanga-canberra-177983409	Price withheld	
 616768	177983538	2020-03-14	14-bailey-place-yarralumla-canberra-177983538	Passed in	
+619232	178011835	2020-03-21	31-1-sydney-avenue-barton-canberra-178011835	Passed in	
+619233	178041967	2020-03-21	6-esau-place-bonython-canberra-178041967	Passed in	
+619234	178011807	2020-03-21	12-1-5-goldman-street-bruce-canberra-178011807	Passed in	$599k max bid
+619235	178034308	2020-03-21	13-johnstone-circuit-calwell-canberra-178034308	$848k	
+619236	178017654	2020-03-21	45-waller-crescent-campbell-canberra-178017654	$1.23m	Prior to auction
+619237	178019868	2020-03-21	9-bendora-avenue-crestwood-queanbeyan-region-178019868	$570k	
+619238	178075477	2020-03-21	10-kidston-crescent-curtin-canberra-178075477	$1.05m	
+619239	178011548	2020-03-21	9-verran-place-curtin-canberra-178011548	$1.006m	
+619240	178006608	2020-03-21	111-marchant-circuit-dunlop-canberra-178006608	$562k	
+619241	178028526	2020-03-21	8-gulgong-place-fisher-canberra-178028526	$720k	Prior to auction
+619242	178014950	2020-03-21	19-roughley-place-florey-canberra-178014950	$511k	
+619243	178012968	2020-03-21	66-captain-cook-crescent-griffith-canberra-178012968	Passed in	
+619244	178011670	2020-03-21	97-jansz-crescent-griffith-canberra-178011670	$3.34m	
+619245	178011939	2020-03-21	111-rivett-street-hackett-canberra-178011939	$907k	
+619246	178011809	2020-03-21	1-steep-street-harrison-canberra-178011809	Passed in	
+619247	178011545	2020-03-21	4-30-coane-street-holder-canberra-178011545	$560k	Prior to auction
+619248	177984051	2020-03-21	12-guy-place-holder-canberra-177984051	$1.053m	Prior to auction
+619249	178000670	2020-03-21	20-hyndes-crescent-holder-canberra-178000670	$645k	
+619250	177983480	2020-03-21	4-goble-street-hughes-canberra-177983480	$925k	
+619251	177990340	2020-03-21	21-wisdom-street-hughes-canberra-177990340	Passed in	
+619252	178012417	2020-03-21	51-julia-flynn-avenue-isaacs-canberra-178012417	$975k	
+619253	178011375	2020-03-21	13-kaeppel-place-isaacs-canberra-178011375	$1.2m	
+619254	178011435	2020-03-21	6-92-crozier-circuit-kambah-canberra-178011435	Passed in	
+619255	None	2020-03-21	"""15b Lindsay St Narrabundah Canberra"""	$1.85m	
+619256	178009112	2020-03-21	39-anne-clark-avenue-nicholls-canberra-178009112	Passed in	
+619257	178007025	2020-03-21	57-lexcen-avenue-nicholls-canberra-178007025	$920k	
+619258	178006034	2020-03-21	27-sue-geh-circuit-nicholls-canberra-178006034	$1.29m	
+619259	178007195	2020-03-21	16-cumberlege-crescent-pearce-canberra-178007195	Passed in	
+619260	178001188	2020-03-21	111-monaro-crescent-red-hill-canberra-178001188	Passed in	
+619261	178011636	2020-03-21	10-sollya-place-rivett-canberra-178011636	$765k	
+619262	178011245	2020-03-21	10-petre-place-scullin-canberra-178011245	$520k	
+619263	178011588	2020-03-21	4-jacoby-place-stirling-canberra-178011588	$847k	
+619264	178011598	2020-03-21	5-loton-place-stirling-canberra-178011598	$758k	
+619265	None	2020-03-21	"""23/121 Streeton Dr Stirling Canberra"""	$652k	Prior to auction
+619266	178005913	2020-03-21	21-rylah-crescent-wanniassa-canberra-178005913	$800k	
+619267	178011460	2020-03-21	47-peter-cullen-way-wright-canberra-178011460	Passed in	
+619268	177983503	2020-03-21	55-schlich-street-yarralumla-canberra-177983503	Passed in	
