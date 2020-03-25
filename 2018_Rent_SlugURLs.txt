@@ -29,6 +29,7 @@ ListingId	DateTime	URL
 175698456	2018-08-23 04:26:07	21-burra-place-braddon-canberra-175698456
 175698726	2018-08-23 05:00:20	51-byron-court-phillip-canberra-175698726
 175701586	2018-08-23 23:08:28	13-15-sturt-avenue-griffith-canberra-175701586
+175749337	2018-09-05 05:31:28	33-currong-street-south-reid-canberra-175749337
 175782656	2018-09-12 09:48:18	no-street-name-provided-franklin-canberra-175782656
 175834086	2018-09-25 10:04:41	14-macfarland-crescent-chifley-canberra-175834086
 175867336	2018-10-04 00:56:50	no-street-name-provided-city-canberra-175867336
