@@ -42,6 +42,7 @@ ListingId	DateTime	URL
 176813187	2019-05-30 00:04:03	no-street-name-provided-belconnen-canberra-176813187
 176825986	2019-06-01 05:52:54	no-street-name-provided-harrison-canberra-176825986
 176837090	2019-06-10 08:34:38	6-nepean-place-macquarie-canberra-176837090
+176840502	2019-06-05 04:42:29	31-dobikin-street-crace-canberra-176840502
 176846173	2019-06-06 05:33:07	17-terrigal-crescent-o-malley-canberra-176846173
 176878897	2019-07-29 00:29:49	no-street-name-provided-calwell-canberra-176878897
 176888343	2019-06-22 07:02:55	47-bellbird-loop-lawson-canberra-176888343
