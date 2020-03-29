@@ -228,3 +228,24 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 619360	178005913	2020-03-21	21-rylah-crescent-wanniassa-canberra-178005913	$800k	
 619361	178011460	2020-03-21	47-peter-cullen-way-wright-canberra-178011460	Passed in	
 619362	177983503	2020-03-21	55-schlich-street-yarralumla-canberra-177983503	Passed in	
+621249	178041584	2020-03-28	45-russell-drysdale-crescent-conder-canberra-178041584	Price withheld	Prior to auction
+621250	178044239	2020-03-28	13-meston-place-fadden-canberra-178044239	Withdrawn	
+621251	178047372	2020-03-28	9-ellinor-walker-street-franklin-canberra-178047372	$917k	
+621252	178063965	2020-03-28	53-judith-wright-street-franklin-canberra-178063965	$822k	Prior to auction
+621253	178037330	2020-03-28	43-oodgeroo-avenue-franklin-canberra-178037330	Withdrawn	
+621254	178042017	2020-03-28	148-kitchener-street-garran-canberra-178042017	Price withheld	Prior to auction
+621255	None	2020-03-28	"""17/3 Riddle Pl Gordon Canberra"""	$406k	Prior to auction
+621256	178045809	2020-03-28	328-anthony-rolfe-avenue-gungahlin-canberra-178045809	Price withheld	Prior to auction
+621257	178032674	2020-03-28	6-stott-street-hackett-canberra-178032674	$780k	
+621258	178034388	2020-03-28	49-ormiston-circuit-harrison-canberra-178034388	$875k	Prior to auction
+621259	178034487	2020-03-28	19-staaten-crescent-kaleen-canberra-178034487	Price withheld	Prior to auction
+621260	178047621	2020-03-28	1-morant-circuit-kambah-canberra-178047621	$790k	Prior to auction
+621261	None	2020-03-28	"""9 Mallee Cr Karabar Canberra"""	Price withheld	
+621262	178025690	2020-03-28	11-woodridge-place-karabar-queanbeyan-region-178025690	Passed in	$905k max bid
+621263	178012228	2020-03-28	5-carey-place-melba-canberra-178012228	$1.2m	
+621264	None	2020-03-28	"""11 Hibiscus Cr Rivett Canberra"""	$657k	Prior to auction
+621265	178035511	2020-03-28	50-crofts-crescent-spence-canberra-178035511	$755k	
+621266	178041834	2020-03-28	4-jefferis-street-torrens-canberra-178041834	Price withheld	Prior to auction
+621267	178019800	2020-03-28	8-tiwi-place-waramanga-canberra-178019800	$830k	Prior to auction
+621268	178042046	2020-03-28	9-8-watling-place-weston-canberra-178042046	Price withheld	Prior to auction
+621269	178011551	2020-03-28	27-mueller-street-yarralumla-canberra-178011551	Price withheld	Prior to auction
