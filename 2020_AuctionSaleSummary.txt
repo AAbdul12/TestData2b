@@ -3,3 +3,4 @@ Id	AuctionDate	scheduledAuctionsCount	clearanceRate
 2	2020-03-14	51	74%
 3	2020-03-21	56	65%
 4	2020-03-28	66	47%
+5	2020-04-04	92	43%
