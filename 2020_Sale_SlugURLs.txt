@@ -1677,3 +1677,4 @@ ListingId	DateTime	URL
 178167042	2020-04-06 02:12:06	10-2-tauss-place-bruce-canberra-178167042
 178167842	2020-04-06 04:42:17	17-dot-butler-street-wright-canberra-178167842
 178170867	2020-04-06 22:52:00	5-143-port-jackson-circuit-phillip-canberra-178170867
+178170924	2020-04-07 00:22:04	42-quinane-avenue-forde-canberra-178170924
