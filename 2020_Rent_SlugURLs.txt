@@ -1901,3 +1901,7 @@ ListingId	DateTime	URL
 178170277	2020-04-06 08:42:03	28-finemore-street-coombs-canberra-178170277
 178170791	2020-04-06 23:02:04	6-bear-place-chisholm-canberra-178170791
 178170968	2020-04-06 23:22:07	10-argus-street-wright-canberra-178170968
+178171010	2020-04-07 00:12:05	8-133-rivett-hackett-canberra-178171010
+178171011	2020-04-07 00:42:07	35-47-wentworth-avenue-kingston-canberra-178171011
+178171036	2020-04-07 00:02:02	49-13-15-sturt-avenue-griffith-canberra-178171036
+178171058	2020-04-07 00:12:11	2-mallett-street-bonner-canberra-178171058
