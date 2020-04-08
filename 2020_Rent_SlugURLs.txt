@@ -1789,6 +1789,7 @@ ListingId	DateTime	URL
 178155861	2020-04-03 06:27:40	1601-4-grazier-lane-belconnen-canberra-178155861
 178155862	2020-04-03 05:44:45	20-mackie-crescent-stirling-canberra-178155862
 178155863	2020-04-06 02:09:35	1-36-blacket-street-downer-canberra-178155863
+178155864	2020-04-08 02:04:29	8-simonetti-street-dunlop-canberra-178155864
 178155865	2020-04-07 01:34:41	4-pell-place-chifley-canberra-178155865
 178156013	2020-04-02 01:34:07	12-strzelecki-crescent-narrabundah-canberra-178156013
 178156591	2020-04-02 02:52:07	1-arthur-tange-street-casey-canberra-178156591
@@ -1870,6 +1871,7 @@ ListingId	DateTime	URL
 178163808	2020-04-03 07:22:02	402-8-gribble-street-gungahlin-canberra-178163808
 178163816	2020-04-03 07:54:54	52a-knox-street-watson-canberra-178163816
 178163819	2020-04-06 01:08:51	10-53-mcmillan-crescent-griffith-canberra-178163819
+178163822	2020-04-06 06:04:38	6-22-aroona-court-ngunnawal-canberra-178163822
 178164695	2020-04-03 22:52:02	402-59-constitution-avenue-campbell-canberra-178164695
 178164939	2020-04-06 03:39:03	57-58-cowlishaw-street-greenway-canberra-178164939
 178164941	2020-04-07 02:08:07	24-28-mort-street-braddon-canberra-178164941
@@ -1925,6 +1927,7 @@ ListingId	DateTime	URL
 178171760	2020-04-07 02:12:07	196-140-thynne-street-bruce-canberra-178171760
 178171780	2020-04-07 03:02:05	20-couchman-crescent-chisholm-canberra-178171780
 178171887	2020-04-07 23:18:45	107-26-antill-street-dickson-canberra-178171887
+178171891	2020-04-08 01:38:25	2-85-tenison-woods-circuit-bonython-canberra-178171891
 178172075	2020-04-07 03:32:06	202-60-college-street-belconnen-canberra-178172075
 178172393	2020-04-07 03:10:12	9-taplin-place-isaacs-canberra-178172393
 178172535	2020-04-07 03:52:00	77-2-peter-cullen-way-wright-canberra-178172535
@@ -1945,6 +1948,14 @@ ListingId	DateTime	URL
 178174681	2020-04-07 08:22:02	2-110-davenport-street-dickson-canberra-178174681
 178174722	2020-04-07 09:52:01	1502-6-gribble-street-gungahlin-canberra-178174722
 178174893	2020-04-07 13:00:30	146-61-john-gorton-drive-wright-canberra-178174893
+178174923	2020-04-08 01:32:05	unit-315-17-dooring-st-braddon-canberra-178174923
 178174946	2020-04-07 08:22:05	315-2-kerridge-street-kingston-canberra-178174946
+178175134	2020-04-08 01:32:04	29-31-disney-court-belconnen-canberra-178175134
+178175143	2020-04-08 01:22:12	319-325-anketell-street-greenway-canberra-178175143
 178175203	2020-04-07 23:22:01	39-verbrugghen-street-melba-canberra-178175203
+178175232	2020-04-08 01:22:01	7-23-giles-street-kingston-canberra-178175232
 178175266	2020-04-07 22:22:01	41-43-constitution-avenue-reid-canberra-178175266
+178175339	2020-04-08 01:02:01	35-39-eastlake-parade-kingston-canberra-178175339
+178175900	2020-04-08 02:12:05	97-230-flemington-road-harrison-canberra-178175900
+178176292	2020-04-08 03:32:00	37-2-eardley-street-bruce-canberra-178176292
+178176353	2020-04-08 03:32:05	503-8-gribble-street-gungahlin-canberra-178176353
