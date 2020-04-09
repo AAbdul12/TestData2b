@@ -336,3 +336,38 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 622826	178103772	2020-04-04	11-nagara-street-waramanga-canberra-178103772	Passed in	
 622827	178062836	2020-04-04	18-harcourt-street-weetangera-canberra-178062836	$977k	Prior to auction
 622828	178068183	2020-04-04	7-banjo-paterson-avenue-wright-canberra-178068183	Passed in	
+622829	178062762	2020-04-04	10-mchenry-street-amaroo-canberra-178062762	Withdrawn	
+622830	178081697	2020-04-04	74-barada-crescent-aranda-canberra-178081697	$890k	Prior to auction
+622831	178069596	2020-04-04	41-bieundurry-street-bonner-canberra-178069596	$600k	Prior to auction
+622832	178068351	2020-04-04	15a-burra-place-braddon-canberra-178068351	Passed in	
+622833	178042300	2020-04-04	22-rosenthal-street-campbell-canberra-178042300	Withdrawn	
+622834	178062759	2020-04-04	87-david-miller-crescent-casey-canberra-178062759	$670k	Prior to auction
+622835	None	2020-04-04	"""12 Macandie St Casey Canberra"""	$560k	Prior to auction
+622836	178037119	2020-04-04	17-titheradge-place-chapman-canberra-178037119	Price withheld	Prior to auction
+622837	178075477	2020-04-04	10-kidston-crescent-curtin-canberra-178075477	$1.05m	Prior to auction
+622838	178063054	2020-04-04	20-galway-place-deakin-canberra-178063054	$1.63m	Prior to auction
+622839	178042027	2020-04-04	2-le-hunte-street-deakin-canberra-178042027	Price withheld	Prior to auction
+622840	178078781	2020-04-04	26-mcgill-street-evatt-canberra-178078781	$685k	Prior to auction
+622841	178068122	2020-04-04	26-werribee-crescent-farrer-canberra-178068122	$800k	Prior to auction
+622842	178063965	2020-04-04	53-judith-wright-street-franklin-canberra-178063965	$822k	Prior to auction
+622843	178068329	2020-04-04	38-daley-crescent-fraser-canberra-178068329	$800k	
+622844	178063046	2020-04-04	19-albatross-crescent-harrison-canberra-178063046	$900k	Prior to auction
+622845	178062533	2020-04-04	11-kalianna-street-harrison-canberra-178062533	$649k	
+622846	178068465	2020-04-04	5-edwards-street-higgins-canberra-178068465	Price withheld	Prior to auction
+622847	178063070	2020-04-04	35-groom-street-hughes-canberra-178063070	Passed in	
+622848	178062947	2020-04-04	82-allchin-circuit-kambah-canberra-178062947	Passed in	
+622849	178057407	2020-04-04	14-jarman-place-kambah-canberra-178057407	$712k	
+622850	None	2020-04-04	"""88 Cooma St Karabar Canberra"""	$570k	Prior to auction
+622851	178092929	2020-04-04	47-arndell-street-macquarie-canberra-178092929	Passed in	$629k max bid
+622852	178097997	2020-04-04	24-elizabeth-crescent-macquarie-canberra-178097997	Price withheld	Prior to auction
+622853	178062400	2020-04-04	2-haverfield-place-mckellar-canberra-178062400	$995k	
+622854	178069325	2020-04-04	9-pikler-rise-moncrieff-canberra-178069325	$716k	
+622855	178023883	2020-04-04	92-finniss-crescent-narrabundah-canberra-178023883	$918k	
+622856	178095225	2020-04-04	2-4-earle-place-page-canberra-178095225	$452k	
+622857	178075314	2020-04-04	1-16-jevons-place-page-canberra-178075314	$580k	Prior to auction
+622858	178064391	2020-04-04	140-ross-smith-crescent-scullin-canberra-178064391	Passed in	
+622859	None	2020-04-04	"""4/54 Macleay St Turner Canberra"""	$370k	Prior to auction
+622860	178062734	2020-04-04	38-badimara-street-waramanga-canberra-178062734	$750k	Prior to auction
+622861	178103772	2020-04-04	11-nagara-street-waramanga-canberra-178103772	Passed in	
+622862	178062836	2020-04-04	18-harcourt-street-weetangera-canberra-178062836	$977k	Prior to auction
+622863	178068183	2020-04-04	7-banjo-paterson-avenue-wright-canberra-178068183	Passed in	
