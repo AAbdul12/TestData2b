@@ -406,3 +406,14 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 622896	178103772	2020-04-04	11-nagara-street-waramanga-canberra-178103772	Passed in	
 622897	178062836	2020-04-04	18-harcourt-street-weetangera-canberra-178062836	$977k	Prior to auction
 622898	178068183	2020-04-04	7-banjo-paterson-avenue-wright-canberra-178068183	Passed in	
+626374	178121584	2020-04-18	4-newstead-street-amaroo-canberra-178121584	$730k	Prior to auction
+626375	None	2020-04-18	"""24 Syddall St Bonner Canberra"""	$660k	Prior to auction
+626376	178150659	2020-04-18	66-don-dunstan-drive-bonython-canberra-178150659	$1.023m	Prior to auction
+626377	178094476	2020-04-18	61-zanci-street-crace-canberra-178094476	$776k	Prior to auction
+626378	178122214	2020-04-18	77-kambalda-crescent-fisher-canberra-178122214	Price withheld	
+626379	178153501	2020-04-18	16-maurice-place-garran-canberra-178153501	$960k	
+626380	178100990	2020-04-18	3-yamba-place-narrabundah-canberra-178100990	Price withheld	Prior to auction
+626381	178136755	2020-04-18	61-parkhill-street-pearce-canberra-178136755	Passed in	
+626382	178103559	2020-04-18	4-54-macleay-street-turner-canberra-178103559	$370k	Prior to auction
+626383	178104764	2020-04-18	6-54-macleay-street-turner-canberra-178104764	$540k	
+626384	178098054	2020-04-18	23-blair-street-watson-canberra-178098054	Price withheld	Prior to auction
