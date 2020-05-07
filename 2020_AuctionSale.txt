@@ -428,3 +428,9 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 626415	178103559	2020-04-18	4-54-macleay-street-turner-canberra-178103559	$370k	Prior to auction
 626416	178104764	2020-04-18	6-54-macleay-street-turner-canberra-178104764	$540k	
 626417	178098054	2020-04-18	23-blair-street-watson-canberra-178098054	Price withheld	Prior to auction
+627584	178175052	2020-05-02	10-ashbrook-street-amaroo-canberra-178175052	$1.15m	
+627585	178123031	2020-05-02	2-timbs-street-casey-canberra-178123031	$990k	Prior to auction
+627586	178175909	2020-05-02	89-buxton-street-deakin-canberra-178175909	Passed in	
+627587	178097782	2020-05-02	22-71-giles-street-kingston-canberra-178097782	Price withheld	Prior to auction
+627588	None	2020-05-02	"""23 McEachern Cr Melba Canberra"""	$631k	
+627589	177680029	2020-05-02	17-52a-forbes-street-turner-canberra-177680029	Price withheld	
