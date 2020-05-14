@@ -1,0 +1,33 @@
+ListingId	UpdateOnDate	Address	NewPrice
+174821851	2020-05-14	101-177-badimara-street-fisher-canberra	$418,000
+175952680	2020-05-09	3-1-mouat-street-lyneham-canberra	$475,000+
+176574548	2020-05-13	20-3-waddell-place-curtin-canberra	$249,000
+176687019	2020-05-07	622-240-bunda-street-city-canberra	$569,950 +
+177108069	2020-05-11	53-carman-loop-macgregor-canberra	$359,000
+177222697	2020-05-12	104-66-allara-street-city-canberra	$509,000
+177330589	2020-05-11	27-norman-street-deakin-canberra	$1,350,000
+177439528	2020-05-14	43-2-rouseabout-street-lawson-canberra	$575,000
+177604977	2020-05-13	27-woolner-circuit-hawker-canberra	$800,000+
+177623005	2020-05-14	36-meehan-gardens-narrabundah-canberra	2200000+
+177716589	2020-05-09	midnight-805-1-elouera-street-braddon-canberra	$819,000+
+177813741	2020-05-14	1-eddison-place-fraser-canberra	By Negotiation
+177827387	2020-05-08	132-captain-cook-crescent-narrabundah-canberra	$850,000+
+177830097	2020-05-12	19a-abrahams-crescent-conder-canberra	$620,000+
+177951219	2020-05-14	131-18-austin-street-griffith-canberra	$849,000
+177960113	2020-05-13	706-86-88-northbourne-avenue-braddon-canberra	$360,000+
+177965167	2020-05-12	13-freebury-street-denman-prospect-canberra	$1,125,000-$1,175,000
+177977386	2020-05-11	3-bowden-crescent-macgregor-canberra	$455,000+
+178030609	2020-05-08	311-2-akuna-street-city-canberra	$210,000+
+178097674	2020-05-12	17-cultivation-street-harrison-canberra	$795,000
+178127618	2020-05-14	2-324-antill-street-hackett-canberra	By Negotiation
+178146930	2020-05-13	st-arbour-residences-st-arbour-type-b-braddon-canberra	$939,000+
+178149634	2020-05-14	31-29-state-circle-deakin-canberra	By Negotiation
+178158188	2020-05-13	41a-enderby-street-mawson-canberra	$770,000+
+178167959	2020-05-14	38a-belconnen-way-page-canberra	$540,000 - $580,000
+178181083	2020-05-11	34-tambo-street-kaleen-canberra	630,000+
+178193042	2020-05-13	29-rushbrook-circuit-isabella-plains-canberra	Offers over $650,000
+178195243	2020-05-11	10-epacris-place-rivett-canberra	$589,000
+178196661	2020-05-11	25-croton-street-rivett-canberra	$599,000
+178214396	2020-05-13	18-john-winter-street-gungahlin-canberra	$795,000
+178241286	2020-05-12	59-41-chandler-street-belconnen-canberra	$435,000
+178251908	2020-05-11	10-rohan-street-richardson-canberra	$630,000+
