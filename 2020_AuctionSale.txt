@@ -434,3 +434,20 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 627587	178097782	2020-05-02	22-71-giles-street-kingston-canberra-178097782	Price withheld	Prior to auction
 627588	None	2020-05-02	"""23 McEachern Cr Melba Canberra"""	$631k	
 627589	177680029	2020-05-02	17-52a-forbes-street-turner-canberra-177680029	Price withheld	
+628307	178195085	2020-05-09	43-annie-douglas-street-casey-canberra-178195085	Passed in	
+628308	178191004	2020-05-09	4-50-victoria-owen-circuit-casey-canberra-178191004	$602k	Prior to auction
+628309	178199937	2020-05-09	1-lincoln-place-chapman-canberra-178199937	Passed in	
+628310	178190862	2020-05-09	20-james-smith-circuit-conder-canberra-178190862	$707k	
+628311	None	2020-05-09	"""97 Morgan Cr Curtin Canberra"""	$906k	
+628312	178190724	2020-05-09	19-vickers-crescent-flynn-canberra-178190724	$655k	
+628313	178187873	2020-05-09	8-bonwick-place-garran-canberra-178187873	Price withheld	Prior to auction
+628314	178197188	2020-05-09	49-flinders-way-griffith-canberra-178197188	Price withheld	Prior to auction
+628315	178191714	2020-05-09	14-maygar-street-hughes-canberra-178191714	$905k	
+628316	178193042	2020-05-09	29-rushbrook-circuit-isabella-plains-canberra-178193042	Passed in	
+628317	178214388	2020-05-09	3-shand-place-latham-canberra-178214388	$520k	
+628318	178201239	2020-05-09	3-wilga-place-o-connor-canberra-178201239	$1.397m	
+628319	None	2020-05-09	"""102 Macfarland Cr Pearce Canberra"""	$785k	
+628320	178198045	2020-05-09	33-alice-street-queanbeyan-queanbeyan-region-178198045	Passed in	
+628321	178196661	2020-05-09	25-croton-street-rivett-canberra-178196661	Passed in	
+628322	178195243	2020-05-09	10-epacris-place-rivett-canberra-178195243	Passed in	
+628323	178225440	2020-05-09	5-hammett-place-spence-canberra-178225440	$786k	
