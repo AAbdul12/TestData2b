@@ -361,6 +361,7 @@ ListingId	DateTime	URL
 176871597	2019-06-11 14:00:00	8-34-gosse-street-kingston-canberra-176871597
 176873731	2019-06-12 04:31:56	3-35-blackman-crescent-macquarie-canberra-176873731
 176876801	2019-06-12 22:32:07	26-1-waddell-place-curtin-canberra-176876801
+176877797	2019-06-12 23:12:10	50-mugga-way-red-hill-canberra-176877797
 176878279	2019-06-16 23:05:13	709-2-akuna-street-city-canberra-176878279
 176878509	2019-06-17 03:59:34	67-macgregor-street-deakin-canberra-176878509
 176880044	2019-06-13 07:22:01	14-borthwick-avenue-casey-canberra-176880044
