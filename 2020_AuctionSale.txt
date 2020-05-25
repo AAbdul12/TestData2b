@@ -463,3 +463,21 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 628809	None	2020-05-16	"""4 Ada Pl Lyons Canberra"""	$980k	
 628810	178200099	2020-05-16	32-krantzcke-circuit-nicholls-canberra-178200099	$842k	
 628811	178225501	2020-05-16	4-hannaford-street-page-canberra-178225501	$700k	Prior to auction
+630048	178243897	2020-05-23	62-vasey-crescent-campbell-canberra-178243897	$1.526m	
+630049	178241110	2020-05-23	7-winstanley-street-chapman-canberra-178241110	Price withheld	
+630050	178236998	2020-05-23	28-eggleston-crescent-chifley-canberra-178236998	$755k	
+630051	None	2020-05-23	"""1403/19 Marcus Clarke St City Canberra"""	$985k	
+630052	None	2020-05-23	"""6 Crinoline St Crestwood Canberra"""	$680k	Prior to auction
+630053	178244298	2020-05-23	57-atherton-street-downer-canberra-178244298	$1.18m	
+630054	178195501	2020-05-23	2-5-durack-street-downer-canberra-178195501	$956k	
+630055	178241138	2020-05-23	67-kallara-close-duffy-canberra-178241138	$799k	
+630056	None	2020-05-23	"""16 Stump Jump Cr Dunlop Canberra"""	$651k	
+630057	178237816	2020-05-23	30-turbayne-crescent-forde-canberra-178237816	Passed in	
+630058	None	2020-05-23	"""4 Bellinger Cr Kaleen Canberra"""	$905k	
+630059	178233466	2020-05-23	51-summerland-circuit-kambah-canberra-178233466	$760k	Prior to auction
+630060	178241311	2020-05-23	9-hetherington-circuit-mckellar-canberra-178241311	Passed in	
+630061	178241446	2020-05-23	37-petterd-street-page-canberra-178241446	$650k	
+630062	178241331	2020-05-23	51-eugenia-street-rivett-canberra-178241331	$781k	
+630063	178218849	2020-05-23	137-ross-smith-crescent-scullin-canberra-178218849	$530k	
+630064	178241754	2020-05-23	5-stevenson-street-torrens-canberra-178241754	Passed in	
+630065	178228052	2020-05-23	19-19-condamine-street-turner-canberra-178228052	$502k	Prior to auction
