@@ -481,3 +481,17 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 630063	178218849	2020-05-23	137-ross-smith-crescent-scullin-canberra-178218849	$530k	
 630064	178241754	2020-05-23	5-stevenson-street-torrens-canberra-178241754	Passed in	
 630065	178228052	2020-05-23	19-19-condamine-street-turner-canberra-178228052	$502k	Prior to auction
+630900	None	2020-05-30	"""1/8 Jalanga Cr Aranda Canberra"""	$425k	Prior to auction
+630901	178164589	2020-05-30	55-blamey-crescent-campbell-canberra-178164589	Passed in	
+630903	178268668	2020-05-30	22-eppalock-street-duffy-canberra-178268668	Passed in	
+630904	178068301	2020-05-30	38-turbayne-crescent-forde-canberra-178068301	Passed in	
+630905	178241802	2020-05-30	84-227-flemington-road-franklin-canberra-178241802	$334k	Prior to auction
+630906	None	2020-05-30	"""6 Lelta Pl Giralang Canberra"""	$572k	Prior to auction
+630907	178259414	2020-05-30	60-captain-cook-crescent-griffith-canberra-178259414	$1.2m	
+630908	178068469	2020-05-30	44-nellie-hamilton-avenue-gungahlin-canberra-178068469	$665k	Prior to auction
+630909	178261402	2020-05-30	10-limbunya-street-hawker-canberra-178261402	$640k	
+630910	178264018	2020-05-30	13-maygar-street-hughes-canberra-178264018	$931k	
+630911	178239051	2020-05-30	16-112-baldwin-drive-kaleen-canberra-178239051	$408k	Prior to auction
+630913	178235694	2020-05-30	18-carwoola-place-queanbeyan-east-queanbeyan-region-178235694	Passed in	$600k max bid
+630914	178256279	2020-05-30	17-dunphy-street-wright-canberra-178256279	$1.05m	
+630915	178218618	2020-05-30	28-serventy-street-wright-canberra-178218618	Passed in	
