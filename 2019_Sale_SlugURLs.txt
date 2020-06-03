@@ -18,6 +18,7 @@ ListingId	DateTime	URL
 175103984	2019-12-19 00:59:11	parc-3-bedroom-apartment-macquarie-canberra-175103984
 175183517	2019-02-06 13:00:00	2-44-davis-st-weetangera-canberra-175183517
 175203113	2019-10-17 01:08:53	allegro-new-throsby-town-homes-now-available-throsby-canberra-175203113
+175400081	2019-05-02 14:00:00	no-street-name-provided-taylor-canberra-175400081
 175414795	2019-09-12 19:40:40	the-bradfield-1-bedroom-apartment-downer-canberra-175414795
 175427280	2019-02-07 18:42:13	the-bradfield-2-bedroom-apartment-downer-canberra-175427280
 175433642	2019-10-17 01:09:33	allegro-tempo-collective-a-masterpiece-for-all-speeds-of-life-throsby-canberra-175433642
