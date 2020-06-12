@@ -495,3 +495,15 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 630913	178235694	2020-05-30	18-carwoola-place-queanbeyan-east-queanbeyan-region-178235694	Passed in	$600k max bid
 630914	178256279	2020-05-30	17-dunphy-street-wright-canberra-178256279	$1.05m	
 630915	178218618	2020-05-30	28-serventy-street-wright-canberra-178218618	Passed in	
+631940	178289576	2020-06-06	3-belfield-crescent-florey-canberra-178289576	Passed in	
+631941	178276011	2020-06-06	7-colefax-place-florey-canberra-178276011	$815k	
+631942	178037912	2020-06-06	3-john-winter-street-gungahlin-canberra-178037912	Passed in	
+631943	178308429	2020-06-06	12-glow-worm-grove-harrison-canberra-178308429	Price withheld	Prior to auction
+631944	178283897	2020-06-06	8-marrakai-street-hawker-canberra-178283897	Passed in	
+631946	178278922	2020-06-06	3-10-fox-place-lyneham-canberra-178278922	$950k	
+631947	None	2020-06-06	"""3 Hannam Pl Mawson Canberra"""	$675k	
+631948	178268816	2020-06-06	305-165-northbourne-avenue-turner-canberra-178268816	Passed in	
+631949	None	2020-06-06	"""58 A'Beckett St Watson Canberra"""	$805k	
+631950	178284428	2020-06-06	38-shumack-street-weetangera-canberra-178284428	$1.535m	
+631951	178289365	2020-06-06	16-schlich-street-yarralumla-canberra-178289365	Passed in	$2.3m max bid
+631952	178283918	2020-06-06	91-schlich-street-yarralumla-canberra-178283918	$1.32m	
