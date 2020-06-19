@@ -507,3 +507,22 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 631950	178284428	2020-06-06	38-shumack-street-weetangera-canberra-178284428	$1.535m	
 631951	178289365	2020-06-06	16-schlich-street-yarralumla-canberra-178289365	Passed in	$2.3m max bid
 631952	178283918	2020-06-06	91-schlich-street-yarralumla-canberra-178283918	$1.32m	
+633451	2914	2020-06-13	39-bizant-street-amaroo-act-2914	Passed in	
+633452	None	2020-06-13	"""9/41 Chandler St Belconnen Canberra"""	$400k	
+633454	2905	2020-06-13	10-stella-hume-street-bonython-act-2905	$771k	
+633455	2605	2020-06-13	1-bavin-street-curtin-act-2605	Passed in	
+633457	2904	2020-06-13	33-partridge-street-fadden-act-2904	$755k	
+633458	2904	2020-06-13	25-richter-close-fadden-act-2904	Passed in	
+633459	2603	2020-06-13	76-arthur-circle-forrest-act-2603	Passed in	
+633461	2912	2020-06-13	81-sarre-street-gungahlin-act-2912	$850k	Prior to auction
+633462	None	2020-06-13	"""1 Worrall St Holt Canberra"""	$540k	
+633463	2607	2020-06-13	3-rosson-place-isaacs-act-2607	$730k	
+633464	2620	2020-06-13	10-beard-street-karabar-nsw-2620	$585k	Prior to auction
+633465	2620	2020-06-13	41-christopher-crescent-karabar-nsw-2620	$520k	
+633466	2904	2020-06-13	17-forwood-street-monash-act-2904	$770k	Prior to auction
+633467	2604	2020-06-13	15-finniss-crescent-narrabundah-act-2604	Price withheld	
+633468	None	2020-06-13	"""60/46 Paul Coe Cr Ngunnawal Canberra"""	$460k	
+633469	2602	2020-06-13	15b-robinson-street-o-connor-act-2602	$1.02m	
+633470	2607	2020-06-13	98-macfarland-crescent-pearce-act-2607	$955k	
+633471	2607	2020-06-13	8-batchelor-street-torrens-act-2607	$740k	
+633472	2611	2020-06-13	15-argus-street-wright-act-2611	Passed in	
