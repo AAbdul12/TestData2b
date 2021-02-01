@@ -1,0 +1,2 @@
+Id	AuctionDate	scheduledAuctionsCount	clearanceRate
+1	2021-01-30	36	84%
