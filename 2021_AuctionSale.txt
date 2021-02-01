@@ -1,0 +1,27 @@
+Id	ListingId	SoldDate	Slug	Price	PricePrefix
+700033	2602	2021-01-30	10-calvert-street-ainslie-act-2602	$1.165m	
+700034	2614	2021-01-30	30-jalanga-crescent-aranda-act-2614	$1.285m	Prior to auction
+700035	2600	2021-01-30	unit-3-21-brisbane-avenue-barton-act-2600	$727k	
+700036	2914	2021-01-30	3-schrieber-place-bonner-act-2914	Passed in	
+700037	2611	2021-01-30	8-john-gorton-drive-coombs-act-2611	$590k	
+700038	2905	2021-01-30	22-willoughby-crescent-gilmore-act-2905	Price withheld	Prior to auction
+700039	2904	2021-01-30	37-weathers-street-gowrie-act-2904	$711k	Prior to auction
+700040	2914	2021-01-30	22-alanvale-street-harrison-act-2914	$580k	Prior to auction
+700041	2914	2021-01-30	45-helby-street-harrison-act-2914	$960k	
+700042	2611	2021-01-30	15-foxall-street-holder-act-2611	Price withheld	
+700043	2605	2021-01-30	unit-8-9-bisdee-street-hughes-act-2605	Passed in	
+700045	2615	2021-01-30	54-herron-crescent-latham-act-2615	Passed in	
+700046	None	2021-01-30	"""6 Markell Pl Latham Canberra"""	$725k	
+700047	2615	2021-01-30	48-brownless-street-macgregor-act-2615	Price withheld	
+700048	2615	2021-01-30	23-florey-drive-macgregor-act-2615	$788k	
+700049	None	2021-01-30	"""5 Grainger Cct Melba Canberra"""	$790k	
+700050	2904	2021-01-30	3-newbigin-place-monash-act-2904	$785k	Prior to auction
+700051	None	2021-01-30	"""19 Scott St Narrabundah Canberra"""	$1.11m	Prior to auction
+700052	None	2021-01-30	"""60 Mundawari Cct Ngunnawal Canberra"""	Price withheld	Prior to auction
+700053	2913	2021-01-30	76-mcclelland-avenue-nicholls-act-2913	$956k	
+700054	None	2021-01-30	"""17 Scrivener St O'Connor Canberra"""	$1.79m	
+700055	None	2021-01-30	"""6 Hallen Cl Phillip Canberra"""	$525k	
+700056	None	2021-01-30	"""40 Conlon Cr Theodore Canberra"""	$755k	Prior to auction
+700057	2914	2021-01-30	90-barramundi-street-throsby-act-2914	$682k	
+700058	2607	2021-01-30	4-davies-place-torrens-act-2607	$915k	
+700059	2611	2021-01-30	25-ulysses-circuit-wright-act-2611	$1.05m	Prior to auction
