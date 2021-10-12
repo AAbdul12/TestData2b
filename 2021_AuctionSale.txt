@@ -25,3 +25,52 @@ Id	ListingId	SoldDate	Slug	Price	PricePrefix
 700057	2914	2021-01-30	90-barramundi-street-throsby-act-2914	$682k	
 700058	2607	2021-01-30	4-davies-place-torrens-act-2607	$915k	
 700059	2611	2021-01-30	25-ulysses-circuit-wright-act-2611	$1.05m	Prior to auction
+795769	2914	2021-10-09	44-rollston-street-amaroo-act-2914	$1.57m	Prior to auction
+795770	2617	2021-10-09	unit-12-39-benjamin-way-belconnen-act-2617	$453k	Prior to auction
+795771	2612	2021-10-09	unit-28-28-torrens-street-braddon-act-2612	$440k	Prior to auction
+795772	2905	2021-10-09	56-o-connor-circuit-calwell-act-2905	$1.15m	Prior to auction
+795773	2913	2021-10-09	unit-17-7-loveday-crescent-casey-act-2913	$595k	
+795774	2615	2021-10-09	6-leycester-place-charnwood-act-2615	$810k	
+795775	2905	2021-10-09	33-rose-scott-circuit-chisholm-act-2905	$860k	
+795776	2601	2021-10-09	unit-506-19-marcus-clarke-street-city-act-2601	$860k	Prior to auction
+795777	2906	2021-10-09	12-whitford-place-conder-act-2906	$752k	
+795779	2611	2021-10-09	40-vellacott-street-denman-prospect-act-2611	$1.226m	
+795780	2611	2021-10-09	unit-9-30-eungella-street-duffy-act-2611	$785k	Prior to auction
+795781	None	2021-10-09	"""11 Hedger St Dunlop Canberra"""	$900k	Prior to auction
+795782	2617	2021-10-09	21-mchugh-street-evatt-act-2617	Price withheld	
+795783	2904	2021-10-09	5-annear-place-fadden-act-2904	$950k	Prior to auction
+795784	2904	2021-10-09	46-chataway-crescent-fadden-act-2904	$1.216m	
+795785	2607	2021-10-09	10-steinwedel-street-farrer-act-2607	$1.5m	Prior to auction
+795786	2615	2021-10-09	7-enright-crescent-florey-act-2615	$1.02m	
+795787	2615	2021-10-09	15-barber-crescent-flynn-act-2615	$1.383m	
+795788	2615	2021-10-09	22-love-street-flynn-act-2615	$1.57m	
+795789	None	2021-10-09	"""49 Gilmore Cr Garran Canberra"""	$1.78m	
+795790	2620	2021-10-09	6-morris-close-greenleigh-nsw-2620	Price withheld	
+795791	2912	2021-10-09	61-ian-potter-crescent-gungahlin-act-2912	$1.4m	
+795792	2602	2021-10-09	143-mackenzie-street-hackett-act-2602	$1.45m	Prior to auction
+795793	2611	2021-10-09	47-de-graaff-street-holder-act-2611	$932k	
+795794	2615	2021-10-09	unit-40-23-blackham-street-holt-act-2615	$690k	Prior to auction
+795795	2605	2021-10-09	39-glasgow-street-hughes-act-2605	$1.8m	
+795796	None	2021-10-09	"""76 Boddington Cr Kambah Canberra"""	$797k	
+795797	2604	2021-10-09	unit-45-47-kennedy-street-kingston-act-2604	$575k	Prior to auction
+795798	2615	2021-10-09	9-poole-place-latham-act-2615	$978k	
+795799	2606	2021-10-09	unit-6-9-tasman-place-lyons-act-2606	$780k	
+795800	2607	2021-10-09	7-bage-place-mawson-act-2607	$1.415m	
+795801	2607	2021-10-09	75-shackleton-circuit-mawson-act-2607	$1.687m	
+795802	2617	2021-10-09	11-tipping-place-mckellar-act-2617	$960k	
+795803	2904	2021-10-09	5-scratchley-place-monash-act-2904	Passed in	
+795804	2914	2021-10-09	72-bellhouse-crescent-moncrieff-act-2914	$885k	Prior to auction
+795805	2604	2021-10-09	6-mosman-place-narrabundah-act-2604	$2.002m	
+795806	2913	2021-10-09	7-carina-street-ngunnawal-act-2913	$1.242m	Prior to auction
+795807	2913	2021-10-09	16-yuranigh-court-ngunnawal-act-2913	$853k	
+795808	2913	2021-10-09	4-amarina-street-palmerston-act-2913	Passed in	
+795809	2607	2021-10-09	7-anstey-street-pearce-act-2607	$1.75m	
+795810	2607	2021-10-09	unit-31-6-kemsley-place-pearce-act-2607	$570k	
+795811	None	2021-10-09	"""14 Cassia Pl Rivett Canberra"""	$951k	
+795812	2612	2021-10-09	15-condamine-street-turner-act-2612	$2.29m	
+795814	2602	2021-10-09	90-aspinall-street-watson-act-2602	$875k	
+795815	2602	2021-10-09	12-lukin-place-watson-act-2602	$1.803m	Prior to auction
+795816	2602	2021-10-09	16-negus-crescent-watson-act-2602	$1.1m	
+795817	2611	2021-10-09	unit-19-18-sellbach-street-weston-act-2611	$1.01m	
+795818	2611	2021-10-09	4-clouston-street-wright-act-2611	$1.39m	
+795819	2611	2021-10-09	6-max-jacobs-avenue-wright-act-2611	$610k	
