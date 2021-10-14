@@ -450,9 +450,9 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179925103	2020-10-15 12:56:07	2021-09-27 00:00:00	$650,000	15-bowman-street-macquarie-act-2614?tid=179925103
 179885637	2020-10-27 16:30:24	2021-09-13 00:00:00	$660,000	shine-3-bed-3-bath-2-car-taylor-act-2913?tid=179885637
 178861340	2020-10-29 07:00:41	2021-09-29 00:00:00	By Negotiation	3-risdon-place-lyons-act-2606
-179874262	2020-11-04 06:26:27	2021-09-10	$1,489,000	58-leichhardt-street-griffith-act-2603?tid=179874262
+179874262	2020-11-04 06:26:27	2021-09-10 00:00:00	$1,489,000	58-leichhardt-street-griffith-act-2603?tid=179874262
 178880566	2020-11-04 11:31:50	2021-08-21 00:00:00	Auction - $1,242,500	23-moruya-circuit-kaleen-act-2617
 179890075	2020-11-04 14:26:04	2021-09-17 00:00:00	$719,900	park-avenue-79-20-allara-street-city-act-2601?tid=179890075
-178874210	2020-11-08 13:14:14	2021-10-14	$750,000	unit-40-1-allambee-street-reid-act-2612
+178874210	2020-11-08 13:14:14	2021-10-14 00:00:00	$750,000	unit-40-1-allambee-street-reid-act-2612
 179027924	2020-12-11 15:41:55	2021-09-15 00:00:00	$440,000	unit-315-2-batman-street-braddon-act-2612
 179938937	2020-12-17 16:30:10	2021-09-29 00:00:00	By Negotiation	signature-collection-exclusive-3-bedroom-executive-residences-multiple-living-areas-and-private-garage-campbell-act-2612?tid=179938937
