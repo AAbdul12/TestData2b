@@ -752,6 +752,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179924430	2021-09-23	2021-10-07	Auction - Sold Prior - $830,000	19-turriff-street-chisholm-act-2905
 179924945	2021-09-24	2021-10-11	Auction - Sold Prior - $1,510,000	110-rivett-street-hackett-act-2602
 179925050	2021-09-24	2021-10-06	Auction	unit-18-28-canberra-avenue-forrest-act-2603
+179925216	2021-09-24	2021-10-15	Auction	unit-3-23-pigdon-place-belconnen-act-2617
 179925336	2021-09-24	2021-10-07	Auction - $500,000	unit-21-47-freda-bennett-circuit-nicholls-act-2913
 179926037	2021-09-24	2021-10-07	Auction - Sold Prior - $1,850,000	6-molineaux-place-farrer-act-2607
 179926079	2021-09-24	2021-10-08	Auction - $973,000	14-barnet-close-phillip-act-2606
@@ -815,4 +816,23 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179964204	2021-10-07	2021-10-08	$652,500	36-tepper-circuit-kambah-act-2902
 179974678	2021-10-11	2021-10-13	$970,000	35-guthridge-street-wanniassa-act-2903?tid=179974678
 179977876	2021-10-12	2021-10-12	$317,500	unit-28-12-albermarle-place-phillip-act-2606
-179925216	2021-09-24	2021-10-15	Auction	unit-3-23-pigdon-place-belconnen-act-2617
+179986749	2021-02-11	2021-10-15	$545,000	11-irving-street-phillip-act-2606?tid=179986749
+179465756	2021-04-29	2021-10-15	By Negotiation	unit-7-27-david-street-o-connor-act-2602
+179603961	2021-06-10	2021-10-15	$985,000	8-don-gazzard-view-taylor-act-2913
+179991217	2021-06-23	2021-10-15	$1,335,000	19-haswell-place-chifley-act-2606?tid=179991217
+179776114	2021-08-05	2021-10-15	Auction	8-akame-circuit-o-malley-act-2606
+179788794	2021-08-10	2021-10-15	By Negotiation	unit-28-18-shugg-street-taylor-act-2913
+179820674	2021-08-20	2021-10-15	$540,000	level-b-unit-25-1-sydney-avenue-barton-act-2600
+179823593	2021-08-24	2021-10-15	Expression of Interest	25-kent-street-deakin-act-2600
+179845518	2021-09-08	2021-10-15	$905,000	81-livingston-avenue-kambah-act-2902
+179899070	2021-09-16	2021-10-15	$985,000	10-fairydale-street-harrison-act-2914
+179918196	2021-09-22	2021-10-15	Auction	6-mulvey-place-fadden-act-2904
+179941725	2021-09-30	2021-10-15	Auction	unit-22-22-canberra-avenue-forrest-act-2603
+179958388	2021-10-06	2021-10-15	Auction	12-boyland-close-spence-act-2615
+179961033	2021-10-06	2021-10-15	Auction - Sold Prior - $710,000	80-oodgeroo-avenue-franklin-act-2913
+179962271	2021-10-07	2021-10-15	Auction	29-james-place-curtin-act-2605
+179967673	2021-10-08	2021-10-15	Auction	4-iredale-place-gordon-act-2906
+179968137	2021-10-08	2021-10-15	Auction	5-jamrozik-street-denman-prospect-act-2611
+179968715	2021-10-08	2021-10-15	$389,000	unit-8-1-cowlishaw-street-greenway-act-2900
+179974765	2021-10-11	2021-10-15	$800,000	84-roden-cutler-drive-bonner-act-2914
+179958154	2021-10-13	2021-10-15	$1,000,000	52-belconnen-way-page-act-2614
