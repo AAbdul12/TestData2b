@@ -73,6 +73,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179666854	2021-07-02	2021-09-09	$720,000	unit-2-119-kelleway-avenue-nicholls-act-2913
 179677410	2021-07-02	2021-10-13	$544,000	unit-11-77-northbourne-avenue-turner-act-2612
 179682066	2021-07-05	2021-09-29	$455,000	unit-18-43-constitution-avenue-reid-act-2612
+179981944	2021-07-06	2021-10-15	$1,350,900	illume-unit-19-3-bedroom-apartment-griffith-act-2603?tid=179981944
 179690849	2021-07-07	2021-09-10	By Negotiation	unit-52-2-eardley-street-bruce-act-2617
 179690907	2021-07-07	2021-08-27	$888,500	55-solomon-crescent-latham-act-2615
 179682126	2021-07-08	2021-10-14	$556,500	unit-215-19-marcus-clarke-street-city-act-2601
@@ -135,6 +136,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179741619	2021-07-23	2021-08-25	$552,500	unit-417-8-cape-street-dickson-act-2602
 179925390	2021-07-23	2021-09-27	$369,900	wova-woden-comes-to-life-woden-act-2606?tid=179925390
 179928821	2021-07-23	2021-09-27	$513,900	wova-woden-revamped-woden-act-2606?tid=179928821
+179981980	2021-07-23	2021-10-15	$510,900	aspen-village-the-peak-of-luxury-greenway-act-2900?tid=179981980
 179743155	2021-07-26	2021-08-21	Auction - $630,000	51-windradyne-street-ngunnawal-act-2913
 179744406	2021-07-26	2021-08-20	Auction - Sold Prior - $875,000	unit-7-5-david-street-o-connor-act-2602
 179745209	2021-07-26	2021-09-06	By Negotiation	96-bacchus-circuit-kambah-act-2902
@@ -362,6 +364,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179791919	2021-08-11	2021-09-13	Auction - $849,000	2-stacy-street-gowrie-act-2904
 179792019	2021-08-11	2021-08-23	Auction - Sold Prior - $940,000	53-charles-perkins-circuit-bonner-act-2914
 179792031	2021-08-11	2021-09-03	$480,000	unit-274-1-anthony-rolfe-avenue-gungahlin-act-2912
+179792044	2021-08-11	2021-10-15	$960,000	20-sunnyman-street-taylor-act-2913
 179792056	2021-08-11	2021-09-13	Auction - $805,000	18-cradle-close-palmerston-act-2913
 179792110	2021-08-11	2021-09-29	Auction - $1,003,000	11-ashburner-street-higgins-act-2615
 179792233	2021-08-11	2021-09-17	Auction	4-yuille-place-charnwood-act-2615
@@ -373,6 +376,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179792790	2021-08-11	2021-09-16	By Negotiation	60-margaret-tucker-street-bonner-act-2914
 179792954	2021-08-11	2021-10-05	Auction - $802,000	9-franks-place-kambah-act-2902
 179793028	2021-08-11	2021-09-20	$720,000	unit-24-33-braybrooke-street-bruce-act-2617
+179793752	2021-08-11	2021-10-15	$710,000	86-oodgeroo-avenue-franklin-act-2913
 179794466	2021-08-11	2021-08-24	By Negotiation	3-midwood-court-conder-act-2906
 179925041	2021-08-11	2021-09-25	$1,330,000	8-lumeah-street-narrabundah-act-2604?tid=179925041
 179925042	2021-08-11	2020-11-20	$1,300,000	8-lumeah-street-narrabundah-act-2604?tid=179925042
@@ -771,6 +775,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179938043	2021-09-29	2021-10-08	Auction - Sold Prior - $1,260,000	360-anthony-rolfe-avenue-harrison-act-2914
 179939336	2021-09-29	2021-10-08	Auction - Sold Prior - $1,252,000	31-neil-harris-crescent-forde-act-2914
 179939375	2021-09-29	2021-10-14	Auction - Sold Prior - $1,285,000	34-terewah-circuit-kaleen-act-2617
+179939803	2021-09-29	2021-10-15	Auction - Sold Prior - $625,000	unit-504-24-lonsdale-street-braddon-act-2612
 179940167	2021-09-29	2021-10-06	Auction	unit-5-43-printers-way-kingston-act-2604
 179928910	2021-09-30	2021-10-13	$835,000	52-keverstone-circuit-isabella-plains-act-2905
 179938938	2021-09-30	2021-10-11	$1,211,000	46-tytherleigh-street-wanniassa-act-2903
@@ -810,8 +815,4 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179964204	2021-10-07	2021-10-08	$652,500	36-tepper-circuit-kambah-act-2902
 179974678	2021-10-11	2021-10-13	$970,000	35-guthridge-street-wanniassa-act-2903?tid=179974678
 179977876	2021-10-12	2021-10-12	$317,500	unit-28-12-albermarle-place-phillip-act-2606
-179981944	2021-07-06 09:29:37	2021-10-15	$1,350,900	illume-unit-19-3-bedroom-apartment-griffith-act-2603?tid=179981944
-179981980	2021-07-23 12:13:25	2021-10-15	$510,900	aspen-village-the-peak-of-luxury-greenway-act-2900?tid=179981980
-179792044	2021-08-11 11:41:26	2021-10-15	$960,000	20-sunnyman-street-taylor-act-2913
-179793752	2021-08-11 16:21:08	2021-10-15	$710,000	86-oodgeroo-avenue-franklin-act-2913
-179939803	2021-09-29 16:41:51	2021-10-15	Auction - Sold Prior - $625,000	unit-504-24-lonsdale-street-braddon-act-2612
+179925216	2021-09-24	2021-10-15	Auction	unit-3-23-pigdon-place-belconnen-act-2617
