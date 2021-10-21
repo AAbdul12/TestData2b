@@ -520,6 +520,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179845548	2021-08-30	2021-10-06	By Negotiation	unit-140-7-irving-street-phillip-act-2606
 179845592	2021-08-30	2021-09-21	$585,000	unit-15-44-jerrabomberra-avenue-narrabundah-act-2604
 179783730	2021-08-31	2021-10-11	$610,000	unit-19b-54-forbes-street-turner-act-2612
+179847757	2021-08-31	2021-10-20	$850,000	24-mockridge-crescent-holt-act-2615
 179847936	2021-08-31	2021-10-11	$800,000	155-lawrence-wackett-crescent-theodore-act-2905
 179848162	2021-08-31	2021-09-27	Auction	unit-1-75-hilder-street-weston-act-2611
 179848468	2021-08-31	2021-09-27	Auction	unit-2-75-hilder-street-weston-act-2611
@@ -891,6 +892,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179949665	2021-10-01	2021-10-19	Auction - $670,000	unit-69-42-paul-coe-crescent-ngunnawal-act-2913
 179944140	2021-10-02	2021-10-08	By Negotiation	22-mayne-street-chifley-act-2606
 179950475	2021-10-02	2021-10-15	Auction - Sold Prior - $840,000	unit-6-15-dickins-street-forde-act-2914
+179953536	2021-10-05	2021-10-20	$625,000	unit-108-12-david-street-turner-act-2612
 179954807	2021-10-05	2021-10-20	By Negotiation	unit-4-101-keverstone-circuit-isabella-plains-act-2905
 179954823	2021-10-05	2021-10-13	Auction - Sold Prior - $1,200,000	4-schinckel-place-macarthur-act-2904
 179928913	2021-10-06	2021-10-15	Auction - Sold Prior - $1,383,000	53-lexcen-avenue-nicholls-act-2913
@@ -928,15 +930,27 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179977862	2021-10-13	2021-10-18	$1,000,000	5-absolon-place-mckellar-act-2617
 179981654	2021-10-13	2021-10-20	Auction - Sold Prior - $860,000	67-francis-forde-boulevard-forde-act-2914
 179981868	2021-10-13	2021-10-19	By Negotiation	unit-14-62-lowanna-street-braddon-act-2612
+179986483	2021-10-14	2021-10-20	Auction	181-namatjira-drive-fisher-act-2611
 179986484	2021-10-14	2021-10-19	Auction	3-wittenoom-crescent-stirling-act-2611
+179986582	2021-10-14	2021-10-20	Auction	1-bow-place-fadden-act-2904
 179986686	2021-10-14	2021-10-19	Auction	unit-15-12-towns-crescent-turner-act-2612
 179987163	2021-10-14	2021-10-20	Auction - Sold Prior - $1,170,000	unit-3-12-hartley-street-turner-act-2612
 179987591	2021-10-14	2021-10-18	$513,000	unit-404-6-grazier-lane-belconnen-act-2617
+179996821	2021-10-18	2021-10-20	Auction - Sold Prior - $1,100,000	10-birrell-street-page-act-2614
 179998114	2021-10-18	2021-10-18	By Negotiation	unit-3-6-bon-scott-crescent-moncrieff-act-2914?tid=179998114
 180004794	2021-10-20	2021-10-20	$462,500	unit-303-1-anthony-rolfe-avenue-gungahlin-act-2912
-179847757	2021-08-31	2021-10-20	$850,000	24-mockridge-crescent-holt-act-2615
-179953536	2021-10-05	2021-10-20	$625,000	unit-108-12-david-street-turner-act-2612
-179986483	2021-10-14	2021-10-20	Auction	181-namatjira-drive-fisher-act-2611
-179986582	2021-10-14	2021-10-20	Auction	1-bow-place-fadden-act-2904
-179996821	2021-10-18	2021-10-20	Auction - Sold Prior - $1,100,000	10-birrell-street-page-act-2614
 180009347	2021-10-20	2021-10-20	$679,580	unit-144-66-cooyong-street-braddon-act-2612
+179880430	2021-09-09	2021-10-21	Auction - Sold Prior - $710,000	unit-96-15-coranderrk-street-city-act-2601
+179937577	2021-09-29	2021-10-21	$410,000	unit-184-140-thynne-street-bruce-act-2617
+179937698	2021-09-29	2021-10-21	Auction - $525,000	unit-42-45-blackall-street-barton-act-2600
+179938077	2021-09-29	2021-10-21	$465,000	unit-95-311-flemington-road-franklin-act-2913
+179940698	2021-09-29	2021-10-21	Auction - $895,000	7-stubbs-crescent-theodore-act-2905
+179942182	2021-09-30	2021-10-20	Auction - $740,000	29-maclachlan-street-holder-act-2611
+179945859	2021-09-30	2021-10-21	$356,000	unit-14-15-braybrook-street-bruce-act-2617
+179959299	2021-10-06	2021-10-21	$675,000	1a-halpern-street-macgregor-act-2615
+179962797	2021-10-07	2021-10-21	Auction	51-coyne-street-macarthur-act-2904
+179963231	2021-10-07	2021-10-21	$560,000	unit-17-2-bulletin-street-lawson-act-2617
+179967488	2021-10-08	2021-10-21	Auction - Sold Prior - $875,000	22-bluebell-street-o-connor-act-2602
+179986756	2021-10-14	2021-10-20	Auction	17-blowering-street-duffy-act-2611
+179987937	2021-10-14	2021-10-21	Auction - Sold Prior - $1,425,192	10c-aurora-close-mawson-act-2607
+179991555	2021-10-15	2021-10-21	Auction	unit-76-100-henry-kendall-street-franklin-act-2913
