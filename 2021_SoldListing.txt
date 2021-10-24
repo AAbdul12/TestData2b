@@ -919,6 +919,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179935530	2021-10-01	2021-10-07	Auction	unit-105-56-printers-way-kingston-act-2604
 179946070	2021-10-01	2021-10-18	Auction - $1,405,000	14-lalor-street-ainslie-act-2602
 179946091	2021-10-01	2021-10-18	Auction - $693,500	13-ultimo-street-crace-act-2911
+179946094	2021-10-01	2021-10-23	Auction	unit-36-1-skuta-place-denman-prospect-act-2611
 179946247	2021-10-01	2021-10-23	Auction - $950,000	29-angophora-street-rivett-act-2611
 179946249	2021-10-01	2021-10-18	Auction - $658,000	122-bernard-heinze-avenue-moncrieff-act-2914
 179946363	2021-10-01	2021-10-21	Auction - $1,221,000	50a-matina-street-narrabundah-act-2604
@@ -941,6 +942,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179928913	2021-10-06	2021-10-15	Auction - Sold Prior - $1,383,000	53-lexcen-avenue-nicholls-act-2913
 179957732	2021-10-06	2021-10-06	$680,000	unit-58-2-rouseabout-street-lawson-act-2617
 179957748	2021-10-06	2021-10-06	$1,200,000	94-gurrang-avenue-ngunnawal-act-2913
+179957814	2021-10-06	2021-10-23	Auction - $860,000	unit-5-15-stroud-place-florey-act-2615
 179957991	2021-10-06	2021-10-16	Auction - Sold Prior - $901,000	56-carr-crescent-wanniassa-act-2903
 179958388	2021-10-06	2021-10-15	Auction	12-boyland-close-spence-act-2615
 179958561	2021-10-06	2021-10-21	Auction	5-craig-place-florey-act-2615
@@ -959,6 +961,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179962293	2021-10-07	2021-10-12	Auction	69-pandanus-street-fisher-act-2611
 179962405	2021-10-07	2021-10-16	Auction	4-coleman-street-pearce-act-2607
 179962545	2021-10-07	2021-10-23	Auction - $1,010,000	42-blackwell-circuit-flynn-act-2615
+179962611	2021-10-07	2021-10-23	Auction	76-o-connor-circuit-calwell-act-2905
 179962797	2021-10-07	2021-10-21	Auction	51-coyne-street-macarthur-act-2904
 179962816	2021-10-07	2021-10-14	Auction	48-southwell-street-weetangera-act-2614
 179962900	2021-10-07	2021-10-14	Auction	unit-145-395-antill-street-watson-act-2602
@@ -1006,6 +1009,8 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180004794	2021-10-20	2021-10-20	$462,500	unit-303-1-anthony-rolfe-avenue-gungahlin-act-2912
 180009347	2021-10-20	2021-10-20	$679,580	unit-144-66-cooyong-street-braddon-act-2612
 180014239	2021-10-21	2021-10-21	Auction	34-prescott-street-farrer-act-2607
-179946094	2021-10-01	2021-10-23	Auction	unit-36-1-skuta-place-denman-prospect-act-2611
-179957814	2021-10-06	2021-10-23	Auction - $860,000	unit-5-15-stroud-place-florey-act-2615
-179962611	2021-10-07	2021-10-23	Auction	76-o-connor-circuit-calwell-act-2905
+179776310	2021-08-05	2021-10-24	Auction - $1,955,000	4-oodgeroo-avenue-franklin-act-2913
+179855893	2021-09-01	2021-10-24	$480,000	unit-40-311-flemington-road-franklin-act-2913
+179958673	2021-10-06	2021-10-24	Auction - $917,500	10-attunga-street-ngunnawal-act-2913
+179959152	2021-10-06	2021-10-24	Auction - $1,255,500	8-jack-ryan-street-forde-act-2914
+179968246	2021-10-08	2021-10-24	Auction - $770,000	56-hibberd-crescent-forde-act-2914
