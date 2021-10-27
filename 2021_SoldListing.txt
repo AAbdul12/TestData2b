@@ -103,6 +103,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179696697	2021-07-08	2021-08-18	$422,500	unit-29-68-college-street-belconnen-act-2617
 179692644	2021-07-09	2021-10-17	$690,000	unit-5-7-joy-cummings-place-belconnen-act-2617
 179699150	2021-07-09	2021-09-13	By Negotiation	unit-4-16-david-miller-crescent-casey-act-2913
+179699209	2021-07-09	2021-10-27	By Negotiation	unit-57-72-wentworth-avenue-kingston-act-2604
 179705011	2021-07-12	2021-08-18	$372,000	unit-74-311-flemington-road-franklin-act-2913
 179667718	2021-07-13	2021-08-20	$935,000	59-pandanus-street-fisher-act-2611
 179928818	2021-07-13	2021-09-27	$665,555	15-bowman-street-macquarie-act-2614?tid=179928818
@@ -699,6 +700,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179893681	2021-09-14	2021-09-26	Auction - $1,524,000	44-aida-ball-circuit-forde-act-2914
 179893695	2021-09-14	2021-10-08	$510,000	unit-63-275-flemington-road-franklin-act-2913
 179888981	2021-09-15	2021-10-12	$720,000	5-mckid-court-charnwood-act-2615
+179890068	2021-09-15	2021-10-26	$475,500	unit-716-120-eastern-valley-way-belconnen-act-2617
 179891588	2021-09-15	2021-10-22	$525,000	unit-111-10-ipima-street-braddon-act-2612
 179894105	2021-09-15	2021-10-11	Auction	7-bage-place-mawson-act-2607
 179894363	2021-09-15	2021-09-30	$660,000	23-paget-street-bruce-act-2617
@@ -758,6 +760,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179900501	2021-09-16	2021-10-05	Auction - $1,440,000	37-annabelle-view-coombs-act-2611
 179900716	2021-09-16	2021-09-28	Auction - Sold Prior - $900,000	7-rose-place-flynn-act-2615
 179901915	2021-09-16	2021-10-01	Auction - $802,000	13-hyndes-crescent-holder-act-2611
+179780314	2021-09-17	2021-10-27	$1,076,000	2-edwell-place-lyneham-act-2602
 179890880	2021-09-17	2021-10-05	$1,415,000	63-negus-crescent-watson-act-2602
 179902550	2021-09-17	2021-10-13	Auction - Sold Prior - $1,200,000	1-gorman-crescent-nicholls-act-2913
 179902735	2021-09-17	2021-10-11	Auction - $860,000	33-rose-scott-circuit-chisholm-act-2905
@@ -871,6 +874,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179925045	2021-09-26	2021-10-26	$330,000	unit-10-39-jerrabomberra-avenue-narrabundah-act-2604
 179929180	2021-09-27	2021-10-11	Auction - $1,390,000	4-clouston-street-wright-act-2611
 179929935	2021-09-27	2021-10-25	Auction - $1,005,000	31-perrott-street-taylor-act-2913
+179930140	2021-09-27	2021-10-27	Auction - $1,000,000	40-barr-smith-avenue-bonython-act-2905
 179930565	2021-09-27	2021-10-08	Auction	25-morton-street-weetangera-act-2614
 179931864	2021-09-27	2021-10-18	$1,015,000	2-benjee-place-isabella-plains-act-2905
 179932504	2021-09-27	2021-10-02	$100	unit-2-60-boldrewood-street-turner-act-2612
@@ -965,6 +969,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179946249	2021-10-01	2021-10-18	Auction - $658,000	122-bernard-heinze-avenue-moncrieff-act-2914
 179946363	2021-10-01	2021-10-21	Auction - $1,221,000	50a-matina-street-narrabundah-act-2604
 179946421	2021-10-01	2021-10-18	Auction	46-kirkwood-crescent-gordon-act-2906
+179946511	2021-10-01	2021-10-27	Auction	5-rees-place-wanniassa-act-2903
 179946630	2021-10-01	2021-10-19	Auction	unit-2-26-william-hudson-crescent-monash-act-2904
 179946651	2021-10-01	2021-10-25	Auction - $1,350,000	16-bettie-mcnee-street-watson-act-2602
 179947414	2021-10-01	2021-10-06	Auction	22-mackerras-crescent-theodore-act-2905
@@ -979,6 +984,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179950475	2021-10-02	2021-10-15	Auction - Sold Prior - $840,000	unit-6-15-dickins-street-forde-act-2914
 179928819	2021-10-05	2021-10-26	$842,000	12-benson-crescent-calwell-act-2905
 179949250	2021-10-05	2021-10-21	By Negotiation	unit-509-21-marcus-clarke-street-city-act-2601
+179952624	2021-10-05	2021-10-26	By Negotiation	unit-53-15-jumbuck-crescent-lawson-act-2617
 179953536	2021-10-05	2021-10-20	$625,000	unit-108-12-david-street-turner-act-2612
 179954539	2021-10-05	2021-10-25	Auction - $1,415,000	11-blackman-crescent-macquarie-act-2614
 179954807	2021-10-05	2021-10-20	By Negotiation	unit-4-101-keverstone-circuit-isabella-plains-act-2905
@@ -1044,13 +1050,16 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179977862	2021-10-13	2021-10-18	$1,000,000	5-absolon-place-mckellar-act-2617
 179981654	2021-10-13	2021-10-20	Auction - Sold Prior - $860,000	67-francis-forde-boulevard-forde-act-2914
 179981750	2021-10-13	2021-10-25	Auction - Sold Prior - $780,000	unit-4-3-earle-place-page-act-2614
+179981751	2021-10-13	2021-10-27	Auction - $575,000	134-livingston-avenue-kambah-act-2902
 179981868	2021-10-13	2021-10-19	By Negotiation	unit-14-62-lowanna-street-braddon-act-2612
 179977863	2021-10-14	2021-10-21	Auction - Sold Prior - $970,000	7-braddon-place-gordon-act-2906
 179986483	2021-10-14	2021-10-20	Auction	181-namatjira-drive-fisher-act-2611
 179986484	2021-10-14	2021-10-19	Auction	3-wittenoom-crescent-stirling-act-2611
 179986489	2021-10-14	2021-10-26	Auction - Sold Prior - $1,126,000	23-wambool-street-narrabundah-act-2604
 179986582	2021-10-14	2021-10-20	Auction	1-bow-place-fadden-act-2904
+179986622	2021-10-14	2021-10-26	Auction	unit-11-26-eungella-street-duffy-act-2611
 179986686	2021-10-14	2021-10-19	Auction	unit-15-12-towns-crescent-turner-act-2612
+179986696	2021-10-14	2021-10-27	Auction	70-namatjira-drive-stirling-act-2611
 179986737	2021-10-14	2021-10-22	Auction	6-caladenia-street-o-connor-act-2602
 179986756	2021-10-14	2021-10-20	Auction	17-blowering-street-duffy-act-2611
 179987163	2021-10-14	2021-10-20	Auction - Sold Prior - $1,170,000	unit-3-12-hartley-street-turner-act-2612
@@ -1065,22 +1074,18 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179996821	2021-10-18	2021-10-20	Auction - Sold Prior - $1,100,000	10-birrell-street-page-act-2614
 179998114	2021-10-18	2021-10-18	By Negotiation	unit-3-6-bon-scott-crescent-moncrieff-act-2914?tid=179998114
 180000487	2021-10-19	2021-10-26	Auction - Sold Prior - $900,000	32-mundawari-circuit-ngunnawal-act-2913
+180001343	2021-10-19	2021-10-27	$700,000	42merakai-sutherland-crescent-taylor-act-2913
 180000631	2021-10-20	2021-10-22	$2,200,000	12-roebuck-street-red-hill-act-2603
 180001040	2021-10-20	2021-10-22	$2,775,000	unit-24-7-eastlake-parade-kingston-act-2604
 180004794	2021-10-20	2021-10-20	$462,500	unit-303-1-anthony-rolfe-avenue-gungahlin-act-2912
 180009347	2021-10-20	2021-10-20	$679,580	unit-144-66-cooyong-street-braddon-act-2612
 180010281	2021-10-21	2021-10-26	$500,000	unit-34-66-allara-street-city-act-2601
+180011023	2021-10-21	2021-10-27	Auction - Sold Prior - $750,000	1-saggers-close-gordon-act-2906
 180014239	2021-10-21	2021-10-21	Auction	34-prescott-street-farrer-act-2607
 180019041	2021-10-25	2021-10-25	By Negotiation	unit-16-4-tauss-place-bruce-act-2617
-179699209	2021-07-09	2021-10-27	By Negotiation	unit-57-72-wentworth-avenue-kingston-act-2604
-179890068	2021-09-15	2021-10-26	$475,500	unit-716-120-eastern-valley-way-belconnen-act-2617
-179780314	2021-09-17	2021-10-27	$1,076,000	2-edwell-place-lyneham-act-2602
-179930140	2021-09-27	2021-10-27	Auction - $1,000,000	40-barr-smith-avenue-bonython-act-2905
-179946511	2021-10-01	2021-10-27	Auction	5-rees-place-wanniassa-act-2903
-179952624	2021-10-05	2021-10-26	By Negotiation	unit-53-15-jumbuck-crescent-lawson-act-2617
-179981751	2021-10-13	2021-10-27	Auction - $575,000	134-livingston-avenue-kambah-act-2902
-179986622	2021-10-14	2021-10-26	Auction	unit-11-26-eungella-street-duffy-act-2611
-179986696	2021-10-14	2021-10-27	Auction	70-namatjira-drive-stirling-act-2611
-180001343	2021-10-19	2021-10-27	$700,000	42merakai-sutherland-crescent-taylor-act-2913
-180011023	2021-10-21	2021-10-27	Auction - Sold Prior - $750,000	1-saggers-close-gordon-act-2906
 180028535	2021-10-27	2021-10-27	$786,000	37-walter-crocker-crescent-casey-act-2913
+179704067	2021-07-12	2021-10-27	$950,000	60-mileham-street-macgregor-act-2615
+179958270	2021-10-06	2021-10-27	Auction - $790,000	unit-5-54-handasyde-street-conder-act-2906
+179986711	2021-10-14	2021-10-27	Auction - Sold Prior - $1,301,822	15-keira-street-narrabundah-act-2604
+180002789	2021-10-19	2021-10-27	Auction - Sold Prior - $950,000	9-coode-street-monash-act-2904
+180000607	2021-10-21	2021-10-27	Auction	74-gwen-meredith-loop-franklin-act-2913
