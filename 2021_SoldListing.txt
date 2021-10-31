@@ -1073,6 +1073,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179967488	2021-10-08	2021-10-21	Auction - Sold Prior - $875,000	22-bluebell-street-o-connor-act-2602
 179967566	2021-10-08	2021-10-19	Auction - Sold Prior - $490,000	unit-8-13-sherwood-circuit-gordon-act-2906
 179967673	2021-10-08	2021-10-15	Auction	4-iredale-place-gordon-act-2906
+179967727	2021-10-08	2021-10-30	Auction - $1,030,000	16-wirraway-crescent-scullin-act-2614
 179968137	2021-10-08	2021-10-15	Auction	5-jamrozik-street-denman-prospect-act-2611
 179968246	2021-10-08	2021-10-24	Auction - $770,000	56-hibberd-crescent-forde-act-2914
 179968715	2021-10-08	2021-10-15	$389,000	unit-8-1-cowlishaw-street-greenway-act-2900
@@ -1083,6 +1084,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179974765	2021-10-11	2021-10-15	$800,000	84-roden-cutler-drive-bonner-act-2914
 179975003	2021-10-11	2021-10-25	Auction	unit-5-21-keira-street-narrabundah-act-2604
 179976989	2021-10-12	2021-10-28	Auction - $1,190,000	1-werong-close-palmerston-act-2913
+179977611	2021-10-12	2021-10-31	Auction - $1,202,000	17-ivy-kent-street-forde-act-2914
 179977740	2021-10-12	2021-10-30	Auction - $1,010,000	4-eldershaw-crescent-dunlop-act-2615
 179977876	2021-10-12	2021-10-12	$317,500	unit-28-12-albermarle-place-phillip-act-2606
 179977994	2021-10-12	2021-10-20	$667,000	unit-39-19-ijong-street-braddon-act-2612
@@ -1104,6 +1106,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179982267	2021-10-13	2021-10-30	Auction - $847,000	11-myulung-street-ngunnawal-act-2913
 179983718	2021-10-13	2021-10-28	$284,200	unit-110-10-thynne-street-bruce-act-2617
 179984088	2021-10-13	2021-10-30	Auction	61-charterisville-avenue-conder-act-2906
+179984131	2021-10-13	2021-10-31	Auction - $1,196,000	14-bert-groves-street-bonner-act-2914
 179977863	2021-10-14	2021-10-21	Auction - Sold Prior - $970,000	7-braddon-place-gordon-act-2906
 179979166	2021-10-14	2021-10-29	Auction - Sold Prior - $890,000	4-hinton-place-conder-act-2906
 179986483	2021-10-14	2021-10-20	Auction	181-namatjira-drive-fisher-act-2611
@@ -1150,6 +1153,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180000631	2021-10-20	2021-10-22	$2,200,000	12-roebuck-street-red-hill-act-2603
 180001040	2021-10-20	2021-10-22	$2,775,000	unit-24-7-eastlake-parade-kingston-act-2604
 180004794	2021-10-20	2021-10-20	$462,500	unit-303-1-anthony-rolfe-avenue-gungahlin-act-2912
+180006047	2021-10-20	2021-10-31	Auction - $920,000	35-katherine-avenue-amaroo-act-2914
 180009347	2021-10-20	2021-10-20	$679,580	unit-144-66-cooyong-street-braddon-act-2612
 180000606	2021-10-21	2021-10-29	Auction - Sold Prior - $1,000,000	5-connell-place-conder-act-2906
 180000607	2021-10-21	2021-10-27	Auction	74-gwen-meredith-loop-franklin-act-2913
@@ -1164,12 +1168,11 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180014239	2021-10-21	2021-10-21	Auction	34-prescott-street-farrer-act-2607
 180016474	2021-10-22	2021-10-30	Auction	1-mcritchie-circuit-nicholls-act-2913
 180019041	2021-10-25	2021-10-25	By Negotiation	unit-16-4-tauss-place-bruce-act-2617
+180023928	2021-10-27	2021-10-31	$1,205,000	127-learmonth-drive-kambah-act-2902
 180028535	2021-10-27	2021-10-27	$786,000	37-walter-crocker-crescent-casey-act-2913
 180032678	2021-10-28	2021-10-29	Auction	unit-27-217-northbourne-avenue-turner-act-2612
 180036034	2021-10-28	2021-10-28	$360,000	unit-14-90-gozzard-street-gungahlin-act-2912
 180040767	2021-10-29	2021-10-29	By Negotiation	unit-9-75-lampard-circuit-bruce-act-2617
-179967727	2021-10-08	2021-10-30	Auction - $1,030,000	16-wirraway-crescent-scullin-act-2614
-179977611	2021-10-12	2021-10-31	Auction - $1,202,000	17-ivy-kent-street-forde-act-2914
-179984131	2021-10-13	2021-10-31	Auction - $1,196,000	14-bert-groves-street-bonner-act-2914
-180006047	2021-10-20	2021-10-31	Auction - $920,000	35-katherine-avenue-amaroo-act-2914
-180023928	2021-10-27	2021-10-31	$1,205,000	127-learmonth-drive-kambah-act-2902
+179898733	2021-09-16	2021-10-31	$480,000	unit-62-3-london-circuit-city-act-2601
+179971478	2021-10-08	2021-10-31	Auction - $585,000	unit-46-34-leahy-close-narrabundah-act-2604
+179972104	2021-10-11	2021-10-31	Auction	97-woodberry-avenue-coombs-act-2611
