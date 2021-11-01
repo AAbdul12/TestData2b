@@ -256,3 +256,4 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177727149	2019-12-23	2020-03-05	By Negotiation	
 180024936	2019-12-23	2021-10-26	$1	71-constitution-avenue-campbell-act-2612?tid=180024936
 177734779	2019-12-24	2020-03-05	$447,000	
+180044498	2019-11-11	2021-11-01	$1	71-constitution-avenue-campbell-act-2612?tid=180044498
