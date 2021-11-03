@@ -20,6 +20,8 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 176636345	2019-04-12	2020-03-05	$610,000	
 179878073	2019-04-16	2021-09-13	$330,000	essential-1-bedroom-courtyard-apartment-denman-prospect-act-2611?tid=179878073
 176654437	2019-04-17	2020-03-11	$230,000	
+180050860	2019-04-29	2021-11-03	$500,000	mulberry-two-storey-courtyard-one-bedroom-dickson-act-2602?tid=180050860
+180051297	2019-04-29	2021-11-03	$400,000	mulberry-one-bedroom-apartment-dickson-act-2602?tid=180051297
 176692777	2019-04-30	2020-03-05	$350,000	
 176697571	2019-05-02	2021-09-15	By Negotiation	unit-48-77-gozzard-street-gungahlin-act-2912
 176713518	2019-05-06	2020-03-11	By Negotiation	
@@ -257,5 +259,4 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177727149	2019-12-23	2020-03-05	By Negotiation	
 180024936	2019-12-23	2021-10-26	$1	71-constitution-avenue-campbell-act-2612?tid=180024936
 177734779	2019-12-24	2020-03-05	$447,000	
-180050860	2019-04-29	2021-11-03	$500,000	mulberry-two-storey-courtyard-one-bedroom-dickson-act-2602?tid=180050860
-180051297	2019-04-29	2021-11-03	$400,000	mulberry-one-bedroom-apartment-dickson-act-2602?tid=180051297
+180050861	2019-12-23	2021-11-03	$1	71-constitution-avenue-campbell-act-2612?tid=180050861
