@@ -1196,7 +1196,9 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179986602	2021-10-14	2021-11-01	Auction	66-franklin-street-forrest-act-2603
 179986622	2021-10-14	2021-10-26	Auction	unit-11-26-eungella-street-duffy-act-2611
 179986624	2021-10-14	2021-11-06	Auction	5-tishler-street-wright-act-2611
+179986631	2021-10-14	2021-11-06	Auction	level-a-unit-39-120-john-gorton-drive-coombs-act-2611
 179986641	2021-10-14	2021-11-06	Auction	17-turner-place-yarralumla-act-2600
+179986649	2021-10-14	2021-11-06	Auction	32-rossarden-street-fisher-act-2611
 179986655	2021-10-14	2021-10-28	Auction - $820,000	25-refshauge-crescent-macgregor-act-2615
 179986661	2021-10-14	2021-10-30	Auction	unit-2-28-whitford-place-conder-act-2906
 179986679	2021-10-14	2021-11-04	Auction - $1,475,000	13-alexander-mackie-circuit-isaacs-act-2607
@@ -1302,5 +1304,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179986782	2021-11-02	2021-11-03	Auction - Sold Prior - $605,000	unit-10-23-chave-street-holt-act-2615
 180039204	2021-11-02	2021-11-05	$911,000	7-cheyne-place-kambah-act-2902
 180063179	2021-11-05	2021-11-05	$199,500	unit-5b-109-knox-street-watson-act-2602
-179986631	2021-10-14	2021-11-06	Auction	level-a-unit-39-120-john-gorton-drive-coombs-act-2611
-179986649	2021-10-14	2021-11-06	Auction	32-rossarden-street-fisher-act-2611
+179906933	2021-09-20	2021-11-06	$915,000	135-rob-riley-circuit-bonner-act-2914
+179986627	2021-10-14	2021-11-07	Auction	25-poynton-street-hughes-act-2605
+179986706	2021-10-14	2021-11-07	Auction	3-clingan-street-wright-act-2611
+180007847	2021-10-20	2021-11-07	Auction	73-greg-urwin-circuit-casey-act-2913
