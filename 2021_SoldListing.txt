@@ -820,6 +820,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179958093	2021-09-17	2021-10-06	$509,900	park-avenue-127-20-allara-street-city-act-2601?tid=179958093
 180050824	2021-09-17	2021-11-05	$399,900	the-chandler-everything-you-need-nothing-you-don-t-belconnen-act-2617?tid=180050824
 179906472	2021-09-18	2021-09-30	Auction - $2,090,000	8-bidwill-close-yarralumla-act-2600
+179906933	2021-09-20	2021-11-06	$915,000	135-rob-riley-circuit-bonner-act-2914
 179907593	2021-09-20	2021-10-25	Auction - $1,212,500	30-temple-terrace-denman-prospect-act-2611
 179909435	2021-09-20	2021-09-20	$595,000	unit-30-2-serventy-street-wright-act-2611
 179909734	2021-09-20	2021-10-20	$661,000	unit-150-81-kennedy-street-kingston-act-2604
@@ -1196,6 +1197,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179986602	2021-10-14	2021-11-01	Auction	66-franklin-street-forrest-act-2603
 179986622	2021-10-14	2021-10-26	Auction	unit-11-26-eungella-street-duffy-act-2611
 179986624	2021-10-14	2021-11-06	Auction	5-tishler-street-wright-act-2611
+179986627	2021-10-14	2021-11-07	Auction	25-poynton-street-hughes-act-2605
 179986631	2021-10-14	2021-11-06	Auction	level-a-unit-39-120-john-gorton-drive-coombs-act-2611
 179986641	2021-10-14	2021-11-06	Auction	17-turner-place-yarralumla-act-2600
 179986649	2021-10-14	2021-11-06	Auction	32-rossarden-street-fisher-act-2611
@@ -1206,6 +1208,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179986688	2021-10-14	2021-11-05	Auction	21-macgillivray-street-yarralumla-act-2600
 179986696	2021-10-14	2021-10-27	Auction	70-namatjira-drive-stirling-act-2611
 179986697	2021-10-14	2021-10-29	Auction	79-chewings-street-scullin-act-2614
+179986706	2021-10-14	2021-11-07	Auction	3-clingan-street-wright-act-2611
 179986711	2021-10-14	2021-10-27	Auction - Sold Prior - $1,301,822	15-keira-street-narrabundah-act-2604
 179986718	2021-10-14	2021-11-06	Auction - $1,325,000	22-yeomans-street-strathnairn-act-2615
 179986720	2021-10-14	2021-11-01	Auction	7-piesse-place-evatt-act-2617
@@ -1260,6 +1263,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180005343	2021-10-20	2021-11-04	$378,000	unit-49-311-flemington-road-franklin-act-2913
 180006047	2021-10-20	2021-10-31	Auction - $920,000	35-katherine-avenue-amaroo-act-2914
 180006751	2021-10-20	2021-11-03	Auction	2-stace-place-gordon-act-2906
+180007847	2021-10-20	2021-11-07	Auction	73-greg-urwin-circuit-casey-act-2913
 180009347	2021-10-20	2021-10-20	$679,580	unit-144-66-cooyong-street-braddon-act-2612
 180000606	2021-10-21	2021-10-29	Auction - Sold Prior - $1,000,000	5-connell-place-conder-act-2906
 180000607	2021-10-21	2021-10-27	Auction	74-gwen-meredith-loop-franklin-act-2913
@@ -1304,7 +1308,5 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179986782	2021-11-02	2021-11-03	Auction - Sold Prior - $605,000	unit-10-23-chave-street-holt-act-2615
 180039204	2021-11-02	2021-11-05	$911,000	7-cheyne-place-kambah-act-2902
 180063179	2021-11-05	2021-11-05	$199,500	unit-5b-109-knox-street-watson-act-2602
-179906933	2021-09-20	2021-11-06	$915,000	135-rob-riley-circuit-bonner-act-2914
-179986627	2021-10-14	2021-11-07	Auction	25-poynton-street-hughes-act-2605
-179986706	2021-10-14	2021-11-07	Auction	3-clingan-street-wright-act-2611
-180007847	2021-10-20	2021-11-07	Auction	73-greg-urwin-circuit-casey-act-2913
+180061345	2021-09-19	2021-11-07	$390,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180061345
+179986859	2021-10-14	2021-11-07	Auction - $1,035,000	30-gordon-withnall-crescent-dunlop-act-2615
