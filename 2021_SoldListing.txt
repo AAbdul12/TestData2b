@@ -597,6 +597,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179843139	2021-08-29	2021-09-03	$340,000	28-dover-court-phillip-act-2606
 179845234	2021-08-30	2021-10-11	Auction - $1,378,000	26-neilson-street-garran-act-2605
 179845548	2021-08-30	2021-10-06	By Negotiation	unit-140-7-irving-street-phillip-act-2606
+179845577	2021-08-30	2021-11-14	$438,000	unit-84-20-federal-highway-watson-act-2602
 179845592	2021-08-30	2021-09-21	$585,000	unit-15-44-jerrabomberra-avenue-narrabundah-act-2604
 180068972	2021-08-30	2021-11-10	$1,305,000	7-donaldson-street-braddon-act-2612?tid=180068972
 179783730	2021-08-31	2021-10-11	$610,000	unit-19b-54-forbes-street-turner-act-2612
@@ -1509,4 +1510,41 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180082968	2021-11-11	2021-11-13	Auction - Sold Prior - $950,000	35-armstrong-crescent-holt-act-2615
 180085306	2021-11-11	2021-11-11	$535,900	metropol-507-1-boolee-street-reid-act-2612?tid=180085306
 180089216	2021-11-12	2021-11-12	$923,500	kingston-act-2604?tid=180089216
-179845577	2021-08-30	2021-11-14	$438,000	unit-84-20-federal-highway-watson-act-2602
+179882426	2021-09-10	2021-11-15	Auction - $785,000	7-koala-close-throsby-act-2914
+180090028	2021-09-17	2021-11-15	$380,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180090028
+180093946	2021-09-17	2021-11-15	$380,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180093946
+179917995	2021-09-22	2021-11-15	By Negotiation	unit-6-45-west-row-city-act-2601
+180085581	2021-09-24	2021-11-15	$630,000	2-gribble-street-gungahlin-act-2912?tid=180085581
+180085635	2021-10-06	2021-11-15	$750,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180085635
+180090029	2021-10-06	2021-11-15	$650,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180090029
+180010020	2021-10-21	2021-11-15	Auction - $1,760,000	12-masson-street-turner-act-2612
+180010074	2021-10-21	2021-11-15	Auction - $1,070,000	3-rivers-street-weston-act-2611
+180010333	2021-10-21	2021-11-15	Auction - $1,210,000	16-angora-street-harrison-act-2914
+180010698	2021-10-21	2021-11-15	By Negotiation	21-fenner-street-downer-act-2602
+180011147	2021-10-21	2021-11-15	Auction - $675,000	unit-52-46-paul-coe-crescent-ngunnawal-act-2913
+180014999	2021-10-22	2021-11-15	Auction	38b-woralul-street-waramanga-act-2611
+180016461	2021-10-22	2021-11-15	Auction - $1,362,000	1-buderim-place-palmerston-act-2913
+180019105	2021-10-25	2021-11-15	Auction - $1,211,000	182-majura-avenue-ainslie-act-2602
+180021999	2021-10-25	2021-11-15	$1,520,000	8-jones-place-weetangera-act-2614
+180024678	2021-10-26	2021-11-15	$1,750,000	11-cockerill-place-mckellar-act-2617
+180024690	2021-10-26	2021-11-15	Auction - $950,000	142-longmore-crescent-wanniassa-act-2903
+180027328	2021-10-26	2021-11-15	Auction - $1,957,000	13-beedham-place-lyons-act-2606
+180028235	2021-10-27	2021-11-15	Auction - $1,200,000	15-mchenry-street-amaroo-act-2914
+180028867	2021-10-27	2021-11-15	Auction - $757,000	26-mobourne-street-bonner-act-2914
+180031446	2021-10-27	2021-11-15	Auction - Sold Prior - $730,000	unit-35-23-wanderlight-avenue-lawson-act-2617
+180033577	2021-10-28	2021-11-15	Auction - Sold Prior - $700,000	unit-8a-45-giles-street-kingston-act-2604
+180033740	2021-10-28	2021-11-15	Auction - $775,000	78a-hollows-circuit-macgregor-act-2615
+180034044	2021-10-28	2021-11-15	$795,000	unit-2-17-hallstrom-circuit-monash-act-2904
+180034209	2021-10-28	2021-11-15	Auction - $790,000	10-eugene-vincent-street-bonner-act-2914
+180034367	2021-10-28	2021-11-15	Auction - $971,000	unit-59-121-thynne-street-bruce-act-2617
+180034912	2021-10-28	2021-11-15	Auction - $897,500	50-barraclough-crescent-monash-act-2904
+180036119	2021-10-28	2021-11-15	Auction - $963,000	unit-14-27-giles-street-kingston-act-2604
+180037832	2021-10-29	2021-11-15	Auction - $1,110,000	11-eva-west-street-gungahlin-act-2912
+180038218	2021-10-29	2021-11-15	Auction	21-brooks-street-macquarie-act-2614
+180038432	2021-10-29	2021-11-15	Auction - $1,495,000	11-jenolan-street-harrison-act-2914
+180047045	2021-11-02	2021-11-15	Auction	19-empire-circuit-forrest-act-2603
+180050842	2021-11-03	2021-11-15	Auction - Sold Prior - $770,000	unit-710-240-bunda-street-city-act-2601
+180087403	2021-11-05	2021-11-15	$589,900	renaissance-apartment-87-griffith-act-2603?tid=180087403
+180071696	2021-11-09	2021-11-15	Auction - $378,000	unit-16-3-bonrook-street-hawker-act-2614
+180087405	2021-11-09	2021-11-15	$880,000	limited-edition-denman-4-beds-25-baths-2-car-garage-townhouse-denman-prospect-act-2611?tid=180087405
+180081833	2021-11-11	2021-11-15	By Negotiation	unit-510-2-gribble-street-gungahlin-act-2912
