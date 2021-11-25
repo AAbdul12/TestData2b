@@ -441,6 +441,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 178028711	2020-03-03	2020-03-05	By Negotiation	
 178034778	2020-03-03	2020-03-11	$608,000	
 178052073	2020-03-06	2020-03-11	By Negotiation	
+178113323	2020-03-23	2021-11-24	By Negotiation	unit-18-7-sydney-avenue-barton-act-2600?tid=178113323
 179888977	2020-05-07	2021-09-13	$636,000	59-currong-street-braddon-act-2612?tid=179888977
 179809603	2020-06-04	2021-08-28	$502,700	mulberry-courtyard-one-bedroom-apartment-dickson-act-2602?tid=179809603
 180050859	2020-06-04	2021-11-03	$500,000	mulberry-townhouse-style-one-bedroom-dickson-act-2602?tid=180050859
@@ -463,4 +464,3 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179004036	2020-12-04	2021-11-01	$695,000	taylor-act-2913?tid=179004036
 179027924	2020-12-11	2021-09-15	$440,000	unit-315-2-batman-street-braddon-act-2612
 179938937	2020-12-17	2021-09-29	By Negotiation	signature-collection-exclusive-3-bedroom-executive-residences-multiple-living-areas-and-private-garage-campbell-act-2612?tid=179938937
-178113323	2020-03-23	2021-11-24	By Negotiation	unit-18-7-sydney-avenue-barton-act-2600?tid=178113323
