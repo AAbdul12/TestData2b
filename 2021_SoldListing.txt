@@ -634,6 +634,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179848162	2021-08-31	2021-09-27	Auction	unit-1-75-hilder-street-weston-act-2611
 179848468	2021-08-31	2021-09-27	Auction	unit-2-75-hilder-street-weston-act-2611
 179848531	2021-08-31	2021-09-13	Auction - $1,075,000	17-crofts-crescent-spence-act-2615
+179849109	2021-08-31	2021-11-26	By Negotiation	unit-812-6-grazier-lane-belconnen-act-2617
 179834114	2021-09-01	2021-09-10	$800,000	55-carslake-loop-gordon-act-2906
 179853462	2021-09-01	2021-09-23	Auction	31a-raymond-street-ainslie-act-2602
 179853489	2021-09-01	2021-09-13	By Negotiation	unit-4-15-dickins-street-forde-act-2914
@@ -1832,4 +1833,18 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180112124	2021-11-19	2021-11-24	By Negotiation	unit-25-18-currie-crescent-kingston-act-2604
 180113075	2021-11-19	2021-11-19	$307,000	unit-1-1-gungahlin-place-gungahlin-act-2912
 180129534	2021-11-24	2021-11-24	By Negotiation	unit-179-56-forbes-street-turner-act-2612
-179849109	2021-08-31	2021-11-26	By Negotiation	unit-812-6-grazier-lane-belconnen-act-2617
+179359353	2021-03-29	2021-11-27	Auction	unit-2-114-macarthur-avenue-o-connor-act-2602
+180127370	2021-08-04	2021-11-26	$445,000	39-braybrooke-street-bruce-act-2617?tid=180127370
+180018628	2021-10-23	2021-11-26	$1,225,000	8-karl-langer-crescent-taylor-act-2913
+180045428	2021-11-01	2021-11-27	Auction	18-stow-place-watson-act-2602
+180053709	2021-11-03	2021-11-27	Auction - $1,200,000	5-moy-place-macquarie-act-2614
+180055613	2021-11-04	2021-11-27	Auction - $1,310,000	29-william-hudson-crescent-monash-act-2904
+180055908	2021-11-04	2021-11-27	Auction	17-hampton-circuit-yarralumla-act-2600
+180055933	2021-11-04	2021-11-27	Auction	unit-28-28-canberra-avenue-forrest-act-2603
+180055980	2021-11-04	2021-11-27	Auction	53-castleton-crescent-gowrie-act-2904
+180055981	2021-11-04	2021-11-27	Auction - $756,000	unit-8-3-heard-street-mawson-act-2607
+180076651	2021-11-10	2021-11-27	Auction - $825,000	68-burrumarra-avenue-ngunnawal-act-2913
+180081841	2021-11-11	2021-11-26	Auction - Sold Prior - $1,275,000	unit-3-7-allwood-street-chifley-act-2606
+180081901	2021-11-11	2021-11-27	Auction	8-johnson-place-farrer-act-2607
+180087349	2021-11-12	2021-11-26	Auction	107-kalgoorlie-crescent-fisher-act-2611
+180102247	2021-11-17	2021-11-27	$925,000	2-pattinson-crescent-flynn-act-2615
