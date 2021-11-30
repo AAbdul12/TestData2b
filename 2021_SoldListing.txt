@@ -29,6 +29,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179399552	2021-04-09	2021-08-31	$799,000	10-parbery-street-kingston-act-2604
 179419011	2021-04-15	2021-09-24	By Negotiation	unit-602-53-mort-street-braddon-act-2612
 179419461	2021-04-15	2021-09-21	$360,000	unit-360-15-bowes-street-phillip-act-2606
+179419659	2021-04-15	2021-11-29	$550,000	unit-296-15-bowes-street-phillip-act-2606
 179394677	2021-04-23	2021-08-20	$479,000	unit-701-104-northbourne-avenue-braddon-act-2612
 179463235	2021-04-28	2021-09-21	$479,000	unit-1210-120-eastern-valley-way-belconnen-act-2617
 179465756	2021-04-29	2021-10-15	By Negotiation	unit-7-27-david-street-o-connor-act-2602
@@ -1077,6 +1078,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179941575	2021-09-30	2021-10-11	Auction	32-gillies-street-curtin-act-2605
 179941585	2021-09-30	2021-10-08	Auction	unit-14-4-tauss-place-bruce-act-2617
 179941612	2021-09-30	2021-10-07	Auction - Sold Prior - $650,000	unit-1-33-dawes-street-kingston-act-2604
+179941695	2021-09-30	2021-11-29	By Negotiation	unit-156-44-macquarie-street-barton-act-2600
 179941725	2021-09-30	2021-10-15	Auction	unit-22-22-canberra-avenue-forrest-act-2603
 179941740	2021-09-30	2021-10-25	Auction - $2,400,000	4-boobialla-street-o-connor-act-2602
 179941774	2021-09-30	2021-10-22	Auction - $1,940,000	17-sabine-close-garran-act-2605
@@ -1376,6 +1378,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179987132	2021-10-14	2021-11-08	Auction - $1,450,000	5-whiteside-court-nicholls-act-2913
 179987163	2021-10-14	2021-10-20	Auction - Sold Prior - $1,170,000	unit-3-12-hartley-street-turner-act-2612
 179987411	2021-10-14	2021-11-12	Auction - Sold Prior - $1,150,000	44-macdowell-street-evatt-act-2617
+179987474	2021-10-14	2021-11-29	By Negotiation	unit-118-77-northbourne-avenue-turner-act-2612
 179987515	2021-10-14	2021-10-28	By Negotiation	16-stella-hume-street-bonython-act-2905
 179987591	2021-10-14	2021-10-18	$513,000	unit-404-6-grazier-lane-belconnen-act-2617
 179987630	2021-10-14	2021-11-02	By Negotiation	unit-32-22-lampard-circuit-bruce-act-2617
@@ -1389,6 +1392,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179988822	2021-10-14	2021-11-08	Auction - $1,635,000	10-higinbotham-street-watson-act-2602
 179988845	2021-10-14	2021-10-22	$670,000	unit-87-43-eastlake-parade-kingston-act-2604
 179988894	2021-10-14	2021-11-08	Auction - $1,450,000	18-padbury-street-downer-act-2602
+179988932	2021-10-14	2021-11-29	$435,000	unit-121-18-moore-street-turner-act-2612
 179988954	2021-10-14	2021-11-08	$470,000	unit-172-1-anthony-rolfe-avenue-gungahlin-act-2912
 179988970	2021-10-14	2021-10-22	Auction	17-victoria-owen-circuit-casey-act-2913
 179989324	2021-10-14	2021-10-29	Auction - $789,000	19-sandover-circuit-amaroo-act-2914
@@ -1536,6 +1540,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180024678	2021-10-26	2021-11-15	$1,750,000	11-cockerill-place-mckellar-act-2617
 180024690	2021-10-26	2021-11-15	Auction - $950,000	142-longmore-crescent-wanniassa-act-2903
 180025415	2021-10-26	2021-11-11	By Negotiation	unit-139-7-irving-street-phillip-act-2606
+180025847	2021-10-26	2021-11-29	Auction - $3,050,000	bundilla-40-johnston-road-springrange-nsw-2618?tid=180025847
 180026070	2021-10-26	2021-11-10	Auction - $1,000,000	22-bundey-street-higgins-act-2615
 180026433	2021-10-26	2021-11-16	$945,000	12-selleck-street-casey-act-2913
 180027328	2021-10-26	2021-11-15	Auction - $1,957,000	13-beedham-place-lyons-act-2606
@@ -1629,7 +1634,9 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180034209	2021-10-28	2021-11-15	Auction - $790,000	10-eugene-vincent-street-bonner-act-2914
 180034228	2021-10-28	2021-11-17	Auction - $1,735,000	9-melba-street-downer-act-2602
 180034367	2021-10-28	2021-11-15	Auction - $971,000	unit-59-121-thynne-street-bruce-act-2617
+180034599	2021-10-28	2021-11-29	By Negotiation	unit-2-3-hayter-place-page-act-2614
 180034629	2021-10-28	2021-11-18	Auction	unit-7-93-nemarang-crescent-waramanga-act-2611
+180034651	2021-10-28	2021-11-30	$525,000	unit-203-80-thynne-street-bruce-act-2617
 180034673	2021-10-28	2021-11-08	Auction	2-hoy-place-isaacs-act-2607
 180034840	2021-10-28	2021-11-12	Auction - $957,000	67a-barr-smith-avenue-bonython-act-2905
 180034912	2021-10-28	2021-11-15	Auction - $897,500	50-barraclough-crescent-monash-act-2904
@@ -1647,6 +1654,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180036297	2021-10-28	2021-11-17	$624,000	unit-109-14-boolee-street-reid-act-2612
 180037347	2021-10-28	2021-11-12	$792,500	42-catalano-street-wright-act-2611
 180127836	2021-10-28	2021-11-24	$455,900	aspen-village-the-peak-of-luxury-greenway-act-2900?tid=180127836
+180135599	2021-10-28	2021-11-29	$369,900	the-chandler-everything-you-need-nothing-you-don-t-belconnen-act-2617?tid=180135599
 180026315	2021-10-29	2021-11-08	$1,000,000	unit-1-15-burara-crescent-waramanga-act-2611
 180037832	2021-10-29	2021-11-15	Auction - $1,110,000	11-eva-west-street-gungahlin-act-2912
 180037881	2021-10-29	2021-11-18	$480,000	unit-15-3-towns-crescent-turner-act-2612
@@ -1656,6 +1664,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180038432	2021-10-29	2021-11-15	Auction - $1,495,000	11-jenolan-street-harrison-act-2914
 180038924	2021-10-29	2021-11-17	$473,000	unit-35-65-constitution-avenue-campbell-act-2612
 180039044	2021-10-29	2021-11-22	Auction - $1,360,000	12-fairweather-circuit-lyneham-act-2602
+180039362	2021-10-29	2021-11-29	Auction - $672,000	unit-20-10-charles-perkins-circuit-bonner-act-2914
 180039734	2021-10-29	2021-11-17	By Negotiation	level-c-unit-213-2-kerridge-street-kingston-act-2604
 180039764	2021-10-29	2021-11-22	Auction - $1,800,000	unit-2-27-elder-street-braddon-act-2612
 180039949	2021-10-29	2021-11-11	$775,000	unit-1502-2-marcus-clarke-street-city-act-2601
@@ -1700,6 +1709,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180050683	2021-11-03	2021-11-18	By Negotiation	unit-6-50-henry-kendall-street-franklin-act-2913
 180050695	2021-11-03	2021-11-27	Auction - $1,070,000	30-haven-street-harrison-act-2914
 180050720	2021-11-03	2021-11-22	$880,000	3-absolon-place-mckellar-act-2617
+180050747	2021-11-03	2021-11-29	Auction	6-huelin-circuit-flynn-act-2615
 180050766	2021-11-03	2021-11-25	Auction	19-rossarden-street-fisher-act-2611
 180050776	2021-11-03	2021-11-24	$1,110,000	unit-61-11-joy-cummings-place-belconnen-act-2617
 180050782	2021-11-03	2021-11-27	Auction - $1,070,000	30-strayleaf-crescent-gungahlin-act-2912
@@ -1718,6 +1728,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180053638	2021-11-03	2021-11-16	Auction - Sold Prior - $695,000	unit-1-135-limestone-avenue-braddon-act-2612
 180053709	2021-11-03	2021-11-27	Auction - $1,200,000	5-moy-place-macquarie-act-2614
 180053756	2021-11-03	2021-11-20	$490,000	119-264-city-walk-canberra-act-2601?tid=180053756
+180136519	2021-11-03	2021-11-29	Expression of Interest	elio-3-bedroom-townhouse-denman-prospect-act-2611?tid=180136519
 180050818	2021-11-04	2021-11-09	$1,173,000	7-dartnell-street-gowrie-act-2904
 180050858	2021-11-04	2021-11-09	Auction	5-beaumont-close-chapman-act-2611
 180051299	2021-11-04	2021-11-18	By Negotiation	77-rowe-place-phillip-act-2606
@@ -1748,6 +1759,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180055940	2021-11-04	2021-11-09	Auction	40-green-street-narrabundah-act-2604
 180055950	2021-11-04	2021-11-12	Auction	44-holman-street-curtin-act-2605
 180055960	2021-11-04	2021-11-27	Auction	44-carstensz-street-griffith-act-2603
+180055973	2021-11-04	2021-11-29	Auction	31-evelyn-owen-crescent-dunlop-act-2615
 180055980	2021-11-04	2021-11-27	Auction	53-castleton-crescent-gowrie-act-2904
 180055981	2021-11-04	2021-11-27	Auction - $756,000	unit-8-3-heard-street-mawson-act-2607
 180055982	2021-11-04	2021-11-27	Auction - $895,000	12-bingle-street-flynn-act-2615
@@ -1763,6 +1775,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180056126	2021-11-04	2021-11-19	Auction	21-webster-street-hughes-act-2605
 180056147	2021-11-04	2021-11-18	Auction	16-cobby-street-campbell-act-2612
 180056246	2021-11-04	2021-11-20	Auction - $1,400,000	5-howarth-place-chapman-act-2611
+180056256	2021-11-04	2021-11-29	Auction	55-lee-steere-crescent-kambah-act-2902
 180056325	2021-11-04	2021-11-11	Auction	6-rodway-street-yarralumla-act-2600
 180056431	2021-11-04	2021-11-16	Auction	13-fullerton-crescent-richardson-act-2905
 180056564	2021-11-04	2021-11-25	Auction	24-lampard-circuit-bruce-act-2617
@@ -1770,15 +1783,21 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180056909	2021-11-04	2021-11-19	Auction - $1,275,000	4-timbs-street-casey-act-2913
 180056941	2021-11-04	2021-11-22	Auction - Sold Prior - $855,000	21-burtt-crescent-calwell-act-2905
 180057123	2021-11-04	2021-11-20	Auction - $1,000,000	unit-1-30-ardlethan-street-fisher-act-2611
+180057329	2021-11-04	2021-11-29	$824,000	16-twamley-crescent-richardson-act-2905
 180057331	2021-11-04	2021-11-12	Auction	46-tiptree-crescent-palmerston-act-2913
 180057342	2021-11-04	2021-11-20	Auction - $2,300,000	1-miljanovic-street-forde-act-2914
 180057405	2021-11-04	2021-11-19	Auction - Sold Prior - $1,170,000	24-nimbera-street-harrison-act-2914
+180057623	2021-11-04	2021-11-29	Auction - $2,050,000	32-a-beckett-street-watson-act-2602
 180057794	2021-11-04	2021-11-16	$496,000	unit-78-3-london-circuit-city-act-2601
+180057923	2021-11-04	2021-11-29	Auction	18-molesworth-street-watson-act-2602
+180058413	2021-11-04	2021-11-29	Auction - $2,120,000	103-mackenzie-street-hackett-act-2602
 180058422	2021-11-04	2021-11-22	Auction - $1,426,000	1-manu-place-waramanga-act-2611
 180058429	2021-11-04	2021-11-23	By Negotiation	7-franc-place-richardson-act-2905
 180058713	2021-11-04	2021-11-17	$752,000	104-pockett-avenue-banks-act-2906
 180059161	2021-11-04	2021-11-25	Auction - $807,500	unit-13-128-easty-street-phillip-act-2606
+180144796	2021-11-04	2021-11-29	Auction	53-lowrie-street-dickson-act-2602?tid=180144796
 180039201	2021-11-05	2021-11-19	Auction - Sold Prior - $1,200,000	5-mullens-place-calwell-act-2905
+180060923	2021-11-05	2021-11-29	Auction - $950,000	3-rentoul-place-flynn-act-2615
 180061040	2021-11-05	2021-11-11	Auction - Sold Prior - $1,125,000	27-turbayne-crescent-forde-act-2914
 180061102	2021-11-05	2021-11-26	Auction - $965,000	12-centaurus-street-giralang-act-2617
 180061200	2021-11-05	2021-11-20	Auction - Sold Prior - $800,000	44-perrin-circuit-banks-act-2906
@@ -1791,46 +1810,66 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180064553	2021-11-05	2021-11-19	Auction - Sold Prior - $1,141,503	16-luffman-crescent-gilmore-act-2905
 180087403	2021-11-05	2021-11-15	$589,900	renaissance-apartment-87-griffith-act-2603?tid=180087403
 180138016	2021-11-05	2021-11-25	$540,900	nightfall-1503-2-grazier-lane-belconnen-act-2617?tid=180138016
+180065702	2021-11-06	2021-11-29	Auction - $1,005,000	28-gilmore-crescent-garran-act-2605
 180066914	2021-11-08	2021-11-18	$990,000	36-castieau-street-higgins-act-2615
 180067586	2021-11-08	2021-11-22	Auction	93-mt-vernon-drive-kambah-act-2902
 180071541	2021-11-09	2021-11-17	Auction - Sold Prior - $1,140,000	75-slim-dusty-circuit-moncrieff-act-2914
 180071696	2021-11-09	2021-11-15	Auction - $378,000	unit-16-3-bonrook-street-hawker-act-2614
 180072723	2021-11-09	2021-11-28	Auction	46-mccawley-street-watson-act-2602
 180073129	2021-11-09	2021-11-28	Auction - $1,050,000	7-ridding-street-forde-act-2914
+180075638	2021-11-09	2021-11-29	$681,000	unit-16-21-gordon-withnall-crescent-dunlop-act-2615
 180075755	2021-11-09	2021-11-26	Auction	10-noongale-court-ngunnawal-act-2913
 180087405	2021-11-09	2021-11-15	$880,000	limited-edition-denman-4-beds-25-baths-2-car-garage-townhouse-denman-prospect-act-2611?tid=180087405
+180127415	2021-11-09	2021-11-29	$540,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180127415
+180068974	2021-11-10	2021-11-29	Auction	unit-105-41-chandler-street-belconnen-act-2617
+180076324	2021-11-10	2021-11-29	By Negotiation	unit-4-68-dalkin-crescent-casey-act-2913
+180076499	2021-11-10	2021-11-29	Auction - $1,800,000	4-coburn-place-isaacs-act-2607
 180076620	2021-11-10	2021-11-19	Auction - Sold Prior - $730,000	31-dixson-circuit-conder-act-2906
 180076651	2021-11-10	2021-11-27	Auction - $825,000	68-burrumarra-avenue-ngunnawal-act-2913
+180076746	2021-11-10	2021-11-29	Auction - $931,000	2-wagstaff-place-isabella-plains-act-2905
+180077048	2021-11-10	2021-11-29	Auction	65-shannon-circuit-kaleen-act-2617
 180077264	2021-11-10	2021-11-28	Auction - Sold Prior - $1,400,000	7-muirhead-place-gowrie-act-2904
+180077552	2021-11-10	2021-11-29	Auction	19-frater-crescent-lyneham-act-2602
+180077811	2021-11-10	2021-11-29	By Negotiation	14-negus-crescent-watson-act-2602
 180077812	2021-11-10	2021-11-21	Auction - Sold Prior - $745,000	48-francis-forde-boulevard-forde-act-2914
 180078170	2021-11-10	2021-11-10	$1,700,000	8-aurora-close-mawson-act-2607
 180078273	2021-11-10	2021-11-28	$1,195,000	11-horneville-street-forde-act-2914
 180079021	2021-11-10	2021-11-19	Auction - Sold Prior - $720,000	unit-1-18-shugg-street-taylor-act-2913
+180079478	2021-11-10	2021-11-29	$570,000	unit-111-6-cape-street-dickson-act-2602
 180079633	2021-11-10	2021-11-25	Auction - Sold Prior - $1,020,000	6-henry-williams-street-bonner-act-2914
 180081531	2021-11-11	2021-11-20	Auction	7-leal-place-palmerston-act-2913
 180081573	2021-11-11	2021-11-27	Auction - $793,000	unit-5-29-forbes-street-turner-act-2612
 180081830	2021-11-11	2021-11-20	Auction	75-theodore-street-curtin-act-2605
 180081833	2021-11-11	2021-11-15	By Negotiation	unit-510-2-gribble-street-gungahlin-act-2912
 180081841	2021-11-11	2021-11-26	Auction - Sold Prior - $1,275,000	unit-3-7-allwood-street-chifley-act-2606
+180081884	2021-11-11	2021-11-29	Auction - $1,210,000	36-castleton-crescent-gowrie-act-2904
 180081901	2021-11-11	2021-11-27	Auction	8-johnson-place-farrer-act-2607
 180081902	2021-11-11	2021-11-12	$360,000	unit-50-22-moore-street-turner-act-2612
 180081912	2021-11-11	2021-11-27	Auction - $1,145,000	unit-1-60-arndell-street-macquarie-act-2614
+180081958	2021-11-11	2021-11-29	Auction	43-chevalier-street-weston-act-2611
 180081978	2021-11-11	2021-11-27	Auction - $874,000	18-partridge-street-fadden-act-2904
 180081980	2021-11-11	2021-11-23	Auction	27-horsley-crescent-melba-act-2615
+180082009	2021-11-11	2021-11-29	Auction	unit-5-40-lhotsky-street-charnwood-act-2615
+180082068	2021-11-11	2021-11-29	Auction - Sold Prior - $1,140,000	6-bertram-street-fadden-act-2904
+180082087	2021-11-11	2021-11-29	Auction	10-bourchier-close-calwell-act-2905
 180082104	2021-11-11	2021-11-24	Auction	133-learmonth-drive-kambah-act-2902
 180082158	2021-11-11	2021-11-16	Auction - Sold Prior - $1,750,000	15-kilgariff-street-coombs-act-2611
 180082177	2021-11-11	2021-11-11	$1,505,000	29-steve-irwin-avenue-wright-act-2611
 180082227	2021-11-11	2021-11-26	Auction	39-spowers-circuit-holder-act-2611
 180082234	2021-11-11	2021-11-16	Auction	unit-411-2-gribble-street-gungahlin-act-2912
 180082322	2021-11-11	2021-11-19	By Negotiation	5-charvin-court-melba-act-2615
+180082576	2021-11-11	2021-11-29	By Negotiation	unit-6-10-towns-crescent-turner-act-2612
 180082579	2021-11-11	2021-11-19	Auction	unit-132-41-philip-hodgins-street-wright-act-2611
+180082587	2021-11-11	2021-11-29	Auction - $935,000	27-lee-steere-crescent-kambah-act-2902
 180082606	2021-11-11	2021-11-25	$643,300	unit-18-51-giles-street-kingston-act-2604
+180082626	2021-11-11	2021-11-29	Auction - $1,002,000	34-rosella-street-nicholls-act-2913
 180082968	2021-11-11	2021-11-13	Auction - Sold Prior - $950,000	35-armstrong-crescent-holt-act-2615
 180082987	2021-11-11	2021-11-25	Auction	unit-3-16-minnta-place-ngunnawal-act-2913
 180083467	2021-11-11	2021-11-24	Auction	unit-1-12-hartley-street-turner-act-2612
 180083950	2021-11-11	2021-11-19	$880,000	10-kiddle-crescent-richardson-act-2905
 180084067	2021-11-11	2021-11-19	Auction	21-heighway-street-macgregor-act-2615
 180084097	2021-11-11	2021-11-24	Auction - Sold Prior - $1,075,000	49-langdon-avenue-wanniassa-act-2903
+180084124	2021-11-11	2021-11-29	Auction - $907,500	3-burrowes-place-wanniassa-act-2903
 180084468	2021-11-11	2021-11-27	Auction - $880,000	30-mcginness-street-scullin-act-2614
 180084573	2021-11-11	2021-11-24	Auction	364-gundaroo-drive-gungahlin-act-2912
 180084607	2021-11-11	2021-11-23	Auction - Sold Prior - $1,230,000	95-kelleway-avenue-nicholls-act-2913
@@ -1842,14 +1881,17 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180087309	2021-11-12	2021-11-25	Auction - Sold Prior - $660,000	93-yumba-avenue-ngunnawal-act-2913
 180087349	2021-11-12	2021-11-26	Auction	107-kalgoorlie-crescent-fisher-act-2611
 180087372	2021-11-12	2021-11-23	Auction	20-sampson-close-melba-act-2615
+180087840	2021-11-12	2021-11-29	Auction - $2,001,000	47-shingleback-street-throsby-act-2914
 180087841	2021-11-12	2021-11-25	Auction	8-kappakoola-street-crace-act-2911
 180089098	2021-11-12	2021-11-17	Auction - Sold Prior - $900,000	unit-32-5-howitt-street-kingston-act-2604
 180089216	2021-11-12	2021-11-12	$923,500	kingston-act-2604?tid=180089216
+180091165	2021-11-15	2021-11-29	Auction - $1,150,000	6-anchorage-street-harrison-act-2914
 180092326	2021-11-15	2021-11-23	Auction	113-dexter-street-cook-act-2614
 180096194	2021-11-16	2021-11-23	Auction - Sold Prior - $1,376,000	26-clem-hill-street-gordon-act-2906
 180098124	2021-11-16	2021-11-25	Auction	17-talbot-street-forrest-act-2603
 180098569	2021-11-16	2021-11-16	$1,000,000	unit-4-25-hurrell-street-forde-act-2914
 180101215	2021-11-16	2021-11-26	Auction - Sold Prior - $1,520,000	27-helen-turner-street-gungahlin-act-2912
+180138009	2021-11-16	2021-11-29	$770,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180138009
 180102036	2021-11-17	2021-11-26	Auction - Sold Prior - $675,000	40-irinyili-street-bonner-act-2914
 180102133	2021-11-17	2021-11-25	Auction	90-mcinnes-street-weston-act-2611
 180102247	2021-11-17	2021-11-27	$925,000	2-pattinson-crescent-flynn-act-2615
@@ -1862,52 +1904,23 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180107380	2021-11-18	2021-11-25	Auction	18-wettenhall-circuit-calwell-act-2905
 180108419	2021-11-18	2021-11-26	Auction - Sold Prior - $855,000	unit-30-1-yidaki-way-moncrieff-act-2914
 180109073	2021-11-18	2021-11-25	$850,000	35-harry-hopman-circuit-gordon-act-2906
+180109241	2021-11-18	2021-11-29	Auction - $1,300,000	3-read-place-evatt-act-2617
 180110438	2021-11-18	2021-11-18	$1,180,000	83-darwinia-terrace-rivett-act-2611
 180110567	2021-11-18	2021-11-22	By Negotiation	unit-2-5-harry-hopman-circuit-gordon-act-2906
 180112124	2021-11-19	2021-11-24	By Negotiation	unit-25-18-currie-crescent-kingston-act-2604
 180113075	2021-11-19	2021-11-19	$307,000	unit-1-1-gungahlin-place-gungahlin-act-2912
 180122860	2021-11-23	2021-11-28	$660,000	55-jabanungga-avenue-ngunnawal-act-2913
 180129534	2021-11-24	2021-11-24	By Negotiation	unit-179-56-forbes-street-turner-act-2612
-179419659	2021-04-15	2021-11-29	$550,000	unit-296-15-bowes-street-phillip-act-2606
-179941695	2021-09-30	2021-11-29	By Negotiation	unit-156-44-macquarie-street-barton-act-2600
-179987474	2021-10-14	2021-11-29	By Negotiation	unit-118-77-northbourne-avenue-turner-act-2612
-179988932	2021-10-14	2021-11-29	$435,000	unit-121-18-moore-street-turner-act-2612
-180025847	2021-10-26	2021-11-29	Auction - $3,050,000	bundilla-40-johnston-road-springrange-nsw-2618?tid=180025847
-180034599	2021-10-28	2021-11-29	By Negotiation	unit-2-3-hayter-place-page-act-2614
-180034651	2021-10-28	2021-11-30	$525,000	unit-203-80-thynne-street-bruce-act-2617
-180135599	2021-10-28	2021-11-29	$369,900	the-chandler-everything-you-need-nothing-you-don-t-belconnen-act-2617?tid=180135599
-180039362	2021-10-29	2021-11-29	Auction - $672,000	unit-20-10-charles-perkins-circuit-bonner-act-2914
-180050747	2021-11-03	2021-11-29	Auction	6-huelin-circuit-flynn-act-2615
-180136519	2021-11-03	2021-11-29	Expression of Interest	elio-3-bedroom-townhouse-denman-prospect-act-2611?tid=180136519
-180055973	2021-11-04	2021-11-29	Auction	31-evelyn-owen-crescent-dunlop-act-2615
-180056256	2021-11-04	2021-11-29	Auction	55-lee-steere-crescent-kambah-act-2902
-180057329	2021-11-04	2021-11-29	$824,000	16-twamley-crescent-richardson-act-2905
-180057623	2021-11-04	2021-11-29	Auction - $2,050,000	32-a-beckett-street-watson-act-2602
-180057923	2021-11-04	2021-11-29	Auction	18-molesworth-street-watson-act-2602
-180058413	2021-11-04	2021-11-29	Auction - $2,120,000	103-mackenzie-street-hackett-act-2602
-180144796	2021-11-04	2021-11-29	Auction	53-lowrie-street-dickson-act-2602?tid=180144796
-180060923	2021-11-05	2021-11-29	Auction - $950,000	3-rentoul-place-flynn-act-2615
-180065702	2021-11-06	2021-11-29	Auction - $1,005,000	28-gilmore-crescent-garran-act-2605
-180075638	2021-11-09	2021-11-29	$681,000	unit-16-21-gordon-withnall-crescent-dunlop-act-2615
-180127415	2021-11-09	2021-11-29	$540,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180127415
-180068974	2021-11-10	2021-11-29	Auction	unit-105-41-chandler-street-belconnen-act-2617
-180076324	2021-11-10	2021-11-29	By Negotiation	unit-4-68-dalkin-crescent-casey-act-2913
-180076499	2021-11-10	2021-11-29	Auction - $1,800,000	4-coburn-place-isaacs-act-2607
-180076746	2021-11-10	2021-11-29	Auction - $931,000	2-wagstaff-place-isabella-plains-act-2905
-180077048	2021-11-10	2021-11-29	Auction	65-shannon-circuit-kaleen-act-2617
-180077552	2021-11-10	2021-11-29	Auction	19-frater-crescent-lyneham-act-2602
-180077811	2021-11-10	2021-11-29	By Negotiation	14-negus-crescent-watson-act-2602
-180079478	2021-11-10	2021-11-29	$570,000	unit-111-6-cape-street-dickson-act-2602
-180081884	2021-11-11	2021-11-29	Auction - $1,210,000	36-castleton-crescent-gowrie-act-2904
-180081958	2021-11-11	2021-11-29	Auction	43-chevalier-street-weston-act-2611
-180082009	2021-11-11	2021-11-29	Auction	unit-5-40-lhotsky-street-charnwood-act-2615
-180082068	2021-11-11	2021-11-29	Auction - Sold Prior - $1,140,000	6-bertram-street-fadden-act-2904
-180082087	2021-11-11	2021-11-29	Auction	10-bourchier-close-calwell-act-2905
-180082576	2021-11-11	2021-11-29	By Negotiation	unit-6-10-towns-crescent-turner-act-2612
-180082587	2021-11-11	2021-11-29	Auction - $935,000	27-lee-steere-crescent-kambah-act-2902
-180082626	2021-11-11	2021-11-29	Auction - $1,002,000	34-rosella-street-nicholls-act-2913
-180084124	2021-11-11	2021-11-29	Auction - $907,500	3-burrowes-place-wanniassa-act-2903
-180087840	2021-11-12	2021-11-29	Auction - $2,001,000	47-shingleback-street-throsby-act-2914
-180091165	2021-11-15	2021-11-29	Auction - $1,150,000	6-anchorage-street-harrison-act-2914
-180138009	2021-11-16	2021-11-29	$770,000	limited-edition-denman-just-released-for-sale-denman-prospect-act-2611?tid=180138009
-180109241	2021-11-18	2021-11-29	Auction - $1,300,000	3-read-place-evatt-act-2617
+179886245	2021-09-13	2021-11-30	$370,000	unit-8-3-garran-place-garran-act-2605
+179955480	2021-10-05	2021-11-30	$1,125,000	71-chance-street-crace-act-2911
+180006948	2021-10-20	2021-11-30	$430,000	unit-43-15-coranderrk-street-city-act-2601
+180010317	2021-10-21	2021-11-30	$595,000	unit-1-15-howitt-street-kingston-act-2604
+180014604	2021-10-22	2021-11-30	By Negotiation	unit-61-39-jerrabomberra-avenue-narrabundah-act-2604
+180050595	2021-11-03	2021-11-30	$362,888	unit-250-64-college-street-belconnen-act-2617
+180076658	2021-11-10	2021-11-30	Auction - Sold Prior - $1,121,000	42-ken-herde-crescent-taylor-act-2913
+180082645	2021-11-11	2021-11-30	Auction - $1,135,000	unit-60-28-torrens-street-braddon-act-2612
+180092558	2021-11-15	2021-11-30	Auction - Sold Prior - $800,000	unit-4-3-adventure-street-harrison-act-2914
+180107032	2021-11-18	2021-11-30	Auction - Sold Prior - $490,000	unit-66-25-john-gorton-drive-wright-act-2611
+180107434	2021-11-18	2021-11-30	Auction	unit-303-10-currie-crescent-griffith-act-2603
+180134994	2021-11-25	2021-11-30	Auction	35-hambidge-crescent-gilmore-act-2905
+180135306	2021-11-25	2021-11-30	Auction - Sold Prior - $1,000,000	47-clive-steele-avenue-monash-act-2904
