@@ -465,3 +465,4 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 179004036	2020-12-04	2021-11-01	$695,000	taylor-act-2913?tid=179004036
 179027924	2020-12-11	2021-09-15	$440,000	unit-315-2-batman-street-braddon-act-2612
 179938937	2020-12-17	2021-09-29	By Negotiation	signature-collection-exclusive-3-bedroom-executive-residences-multiple-living-areas-and-private-garage-campbell-act-2612?tid=179938937
+177977806	2020-02-19	2021-12-07	$470,000	unit-154-1-mouat-street-lyneham-act-2602
