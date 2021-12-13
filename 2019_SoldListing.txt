@@ -16,6 +16,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 176574316	2019-03-27	2020-03-05	By Negotiation	
 176575611	2019-03-28	2020-03-11	$285,000	
 176590427	2019-04-03	2020-03-05	$989,151	
+176590678	2019-04-05	2021-12-13	By Negotiation	strathnairn-act-2615?tid=176590678
 176626962	2019-04-09	2020-03-05	By Negotiation	
 176636345	2019-04-12	2020-03-05	$610,000	
 179878073	2019-04-16	2021-09-13	$330,000	essential-1-bedroom-courtyard-apartment-denman-prospect-act-2611?tid=179878073
@@ -264,4 +265,3 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 180024936	2019-12-23	2021-10-26	$1	71-constitution-avenue-campbell-act-2612?tid=180024936
 180050861	2019-12-23	2021-11-03	$1	71-constitution-avenue-campbell-act-2612?tid=180050861
 177734779	2019-12-24	2020-03-05	$447,000	
-176590678	2019-04-05	2021-12-13	By Negotiation	strathnairn-act-2615?tid=176590678
